@@ -38,9 +38,10 @@ CONTEXTS = ["relazioni", "lavoro", "crescita", "scelta", "neutro"]
 
 CONTEXT_KEYWORDS = {
     "relazioni": [
-        "amore", "relazione", "coppia", "partner", "lui", "lei", "noi", "fidanz",
-        "marito", "moglie", "gelosia", "tradimento", "ex", "sentimenti", "ritorno"
-    ],
+    "amore", "relazione", "coppia", "partner",
+    "fidanz", "marito", "moglie",
+    "gelosia", "tradimento", "ex", "sentimenti"
+],
     "lavoro": [
         "lavoro", "carriera", "colloquio", "azienda", "capo", "progetto", "business",
         "clienti", "soldi", "denaro", "stipendio", "fatturato", "contratto", "studio"
