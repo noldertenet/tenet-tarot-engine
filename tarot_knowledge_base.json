@@ -1,1 +1,3898 @@
-[]
+{
+  "cards": [
+    {
+      "id": "major_00",
+      "name": "Il Matto",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 0,
+      "keywords": [
+        "inizio",
+        "spontaneità",
+        "fiducia",
+        "salto nel vuoto"
+      ],
+      "meaning": "Nuovo ciclo, apertura, libertà interiore, potenzialità non ancora definite. Rovescio: Incoscienza, rischio non calcolato, fuga dalle responsabilità, ingenuità. Simbologia: Figura in cammino verso il precipizio, sole alle spalle, cane istintuale, fagotto con il potenziale non espresso.",
+      "variants": {
+        "RWS": {
+          "nome": "The Fool",
+          "parole_chiave": [
+            "inizio",
+            "spontaneità",
+            "fiducia",
+            "salto nel vuoto"
+          ],
+          "dritto": "Nuovo ciclo, apertura, libertà interiore, potenzialità non ancora definite.",
+          "rovescio": "Incoscienza, rischio non calcolato, fuga dalle responsabilità, ingenuità.",
+          "simbologia": "Figura in cammino verso il precipizio, sole alle spalle, cane istintuale, fagotto con il potenziale non espresso."
+        },
+        "Marsiglia": {
+          "nome": "Le Mat",
+          "parole_chiave": [
+            "viaggio",
+            "erranza",
+            "follia sacra"
+          ],
+          "significato": "Energia in movimento, instabile ma creativa, cammino senza meta apparente.",
+          "note_tradizionali": "Arcano fuori serie, non numerato: rappresenta ciò che è fuori dagli schemi e non ancora determinato."
+        },
+        "Thoth": {
+          "nome": "The Fool",
+          "parole_chiave": [
+            "impulso creatore",
+            "caos fecondo",
+            "innocenza primordiale"
+          ],
+          "significato": "L'92essenza originaria che precede ogni forma, atto di affidarsi allo Spirito.",
+          "corrispondenze": {
+            "astrologia": "Aria",
+            "kabbalah": "Aleph",
+            "alchimia": "Spirito primordiale"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_01",
+      "name": "Il Bagatto / Il Mago",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 1,
+      "keywords": [
+        "manifestazione",
+        "volontà",
+        "abilità",
+        "azione"
+      ],
+      "meaning": "Capacità di trasformare idee in realtà, concentrazione, iniziativa, potere personale. Rovescio: Manipolazione, dispersione di energia, mancanza di focus, talento sprecato. Simbologia: Tavolo con i quattro semi, gesto che collega cielo e terra, infinito sopra la testa.",
+      "variants": {
+        "RWS": {
+          "nome": "The Magician",
+          "parole_chiave": [
+            "manifestazione",
+            "volontà",
+            "abilità",
+            "azione"
+          ],
+          "dritto": "Capacità di trasformare idee in realtà, concentrazione, iniziativa, potere personale.",
+          "rovescio": "Manipolazione, dispersione di energia, mancanza di focus, talento sprecato.",
+          "simbologia": "Tavolo con i quattro semi, gesto che collega cielo e terra, infinito sopra la testa."
+        },
+        "Marsiglia": {
+          "nome": "Le Bateleur",
+          "parole_chiave": [
+            "abilità",
+            "opportunità",
+            "inizio operativo"
+          ],
+          "significato": "Il potenziale pratico è disponibile, si tratta di saperlo usare con destrezza.",
+          "note_tradizionali": "Figura dell'92apprendista/stregone che inizia a maneggiare gli strumenti della realtà."
+        },
+        "Thoth": {
+          "nome": "The Magus",
+          "parole_chiave": [
+            "magia",
+            "comunicazione",
+            "volontà direzionata"
+          ],
+          "significato": "Uso consapevole della mente e della parola per creare e trasformare.",
+          "corrispondenze": {
+            "astrologia": "Mercurio",
+            "kabbalah": "Beth",
+            "alchimia": "Mercurio filosofale"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_02",
+      "name": "La Papessa / La Sacerdotessa",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 2,
+      "keywords": [
+        "intuizione",
+        "mistero",
+        "conoscenza interiore",
+        "silenzio"
+      ],
+      "meaning": "Ascolto profondo, saggezza interiore, verità non ancora manifestate, bisogno di pazienza. Rovescio: Segreti trattenuti, blocchi intuitivi, eccessiva razionalizzazione o negazione del sentire. Simbologia: Velo, luna, pilastri, rotolo nascosto: confine tra conscio e inconscio.",
+      "variants": {
+        "RWS": {
+          "nome": "The High Priestess",
+          "parole_chiave": [
+            "intuizione",
+            "mistero",
+            "conoscenza interiore",
+            "silenzio"
+          ],
+          "dritto": "Ascolto profondo, saggezza interiore, verità non ancora manifestate, bisogno di pazienza.",
+          "rovescio": "Segreti trattenuti, blocchi intuitivi, eccessiva razionalizzazione o negazione del sentire.",
+          "simbologia": "Velo, luna, pilastri, rotolo nascosto: confine tra conscio e inconscio."
+        },
+        "Marsiglia": {
+          "nome": "La Papesse",
+          "parole_chiave": [
+            "attesa",
+            "interiorità",
+            "conoscenza potenziale"
+          ],
+          "significato": "Sapere custodito, introspezione, elaborazione interna prima dell'92azione.",
+          "note_tradizionali": "Figura di riserbo e di pudore del sapere: non rivela se non a tempo debito."
+        },
+        "Thoth": {
+          "nome": "The Priestess",
+          "parole_chiave": [
+            "silenzio sacro",
+            "memoria profonda",
+            "misteri velati"
+          ],
+          "significato": "Accesso al sapere superiore attraverso il vuoto, percezione extrasensoriale.",
+          "corrispondenze": {
+            "astrologia": "Luna",
+            "kabbalah": "Gimel",
+            "alchimia": "Argento"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_03",
+      "name": "L'92Imperatrice",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 3,
+      "keywords": [
+        "creatività",
+        "fertilità",
+        "abbondanza",
+        "nutrimento"
+      ],
+      "meaning": "Crescita, espansione, energia materna, realizzazione di progetti, benessere. Rovescio: Stagnazione, eccesso di controllo materno, dipendenza affettiva o creativa. Simbologia: Figura femminile seduta nella natura rigogliosa, simbolo di Venere, grano e cuscini.",
+      "variants": {
+        "RWS": {
+          "nome": "The Empress",
+          "parole_chiave": [
+            "creatività",
+            "fertilità",
+            "abbondanza",
+            "nutrimento"
+          ],
+          "dritto": "Crescita, espansione, energia materna, realizzazione di progetti, benessere.",
+          "rovescio": "Stagnazione, eccesso di controllo materno, dipendenza affettiva o creativa.",
+          "simbologia": "Figura femminile seduta nella natura rigogliosa, simbolo di Venere, grano e cuscini."
+        },
+        "Marsiglia": {
+          "nome": "L'92Impératrice",
+          "parole_chiave": [
+            "espressione",
+            "creazione",
+            "intelligenza attiva"
+          ],
+          "significato": "Forza creatrice già in atto, pensiero che diventa forma, capacità di organizzare la materia.",
+          "note_tradizionali": "Rappresenta il principio femminile creativo, legato alla parola, all'92arte, alla mente feconda."
+        },
+        "Thoth": {
+          "nome": "The Empress",
+          "parole_chiave": [
+            "fecondità archetipica",
+            "amore universale",
+            "unione di opposti"
+          ],
+          "significato": "Armonia tra spirito e materia, forza magnetica dell'92amore che attira e genera.",
+          "corrispondenze": {
+            "astrologia": "Venere",
+            "kabbalah": "Daleth",
+            "alchimia": "Rame"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_04",
+      "name": "L'92Imperatore",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 4,
+      "keywords": [
+        "stabilità",
+        "struttura",
+        "autorità",
+        "responsabilità"
+      ],
+      "meaning": "Ordine, disciplina, gestione, protezione, decisioni chiare e ferme. Rovescio: Rigidità, autoritarismo, controllo eccessivo, insicurezza mascherata da durezza. Simbologia: Trono di pietra, montagna alle spalle, scettro e sfera del potere.",
+      "variants": {
+        "RWS": {
+          "nome": "The Emperor",
+          "parole_chiave": [
+            "stabilità",
+            "struttura",
+            "autorità",
+            "responsabilità"
+          ],
+          "dritto": "Ordine, disciplina, gestione, protezione, decisioni chiare e ferme.",
+          "rovescio": "Rigidità, autoritarismo, controllo eccessivo, insicurezza mascherata da durezza.",
+          "simbologia": "Trono di pietra, montagna alle spalle, scettro e sfera del potere."
+        },
+        "Marsiglia": {
+          "nome": "L'92Empereur",
+          "parole_chiave": [
+            "potere",
+            "dominio",
+            "stabilizzazione"
+          ],
+          "significato": "Capacità di governare, consolidare, materializzare e proteggere il territorio.",
+          "note_tradizionali": "Principio maschile ordinatore, legato alla legge, alle strutture e ai confini."
+        },
+        "Thoth": {
+          "nome": "The Emperor",
+          "parole_chiave": [
+            "volontà stabilizzatrice",
+            "ordine",
+            "affermazione"
+          ],
+          "significato": "Costruzione di un ordine coerente con la legge superiore del sé.",
+          "corrispondenze": {
+            "astrologia": "Ariete",
+            "kabbalah": "Heh",
+            "alchimia": "Zolfo (volontà attiva)"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_05",
+      "name": "Il Papa / Il Sommo Sacerdote",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 5,
+      "keywords": [
+        "insegnamento",
+        "tradizione",
+        "guida spirituale",
+        "regole"
+      ],
+      "meaning": "Consiglio saggio, educazione, valore della tradizione, cercare un mentore. Rovescio: Dogmatismo, rigidità morale, rifiuto delle regole imposte, anticonformismo superficiale. Simbologia: Chiavi incrociate, gesto di benedizione, discepoli ai suoi piedi.",
+      "variants": {
+        "RWS": {
+          "nome": "The Hierophant",
+          "parole_chiave": [
+            "insegnamento",
+            "tradizione",
+            "guida spirituale",
+            "regole"
+          ],
+          "dritto": "Consiglio saggio, educazione, valore della tradizione, cercare un mentore.",
+          "rovescio": "Dogmatismo, rigidità morale, rifiuto delle regole imposte, anticonformismo superficiale.",
+          "simbologia": "Chiavi incrociate, gesto di benedizione, discepoli ai suoi piedi."
+        },
+        "Marsiglia": {
+          "nome": "Le Pape",
+          "parole_chiave": [
+            "dottrina",
+            "trasmissione",
+            "autorità morale"
+          ],
+          "significato": "Mediazione tra il divino e l'92umano, consiglio, rito, legittimazione.",
+          "note_tradizionali": "Simbolo della fede istituzionalizzata e della parola che rassicura e guida."
+        },
+        "Thoth": {
+          "nome": "The Hierophant",
+          "parole_chiave": [
+            "mistero sacro",
+            "iniziazione",
+            "disciplina spirituale"
+          ],
+          "significato": "Accesso ai misteri attraverso la pratica, il rito e la dedizione.",
+          "corrispondenze": {
+            "astrologia": "Toro",
+            "kabbalah": "Vav",
+            "alchimia": "Materia fecondata dal principio divino"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_06",
+      "name": "Gli Amanti / L'92Innamorato",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 6,
+      "keywords": [
+        "scelta",
+        "relazione",
+        "unione",
+        "valori"
+      ],
+      "meaning": "Decisione importante, armonia nelle relazioni, allineamento tra cuore e mente. Rovescio: Conflitto interiore, paura di scegliere, relazioni disfunzionali o dipendenti. Simbologia: Coppia sotto un angelo, albero della conoscenza e dell'92esperienza, montagna sullo sfondo.",
+      "variants": {
+        "RWS": {
+          "nome": "The Lovers",
+          "parole_chiave": [
+            "scelta",
+            "relazione",
+            "unione",
+            "valori"
+          ],
+          "dritto": "Decisione importante, armonia nelle relazioni, allineamento tra cuore e mente.",
+          "rovescio": "Conflitto interiore, paura di scegliere, relazioni disfunzionali o dipendenti.",
+          "simbologia": "Coppia sotto un angelo, albero della conoscenza e dell'92esperienza, montagna sullo sfondo."
+        },
+        "Marsiglia": {
+          "nome": "L'92Amoureux",
+          "parole_chiave": [
+            "bivio",
+            "tentazione",
+            "decisione affettiva"
+          ],
+          "significato": "Scelta tra due vie, influenza di terzi, conflitto tra desiderio e dovere.",
+          "note_tradizionali": "Spesso indica indecisione e necessità di assumersi la responsabilità della scelta."
+        },
+        "Thoth": {
+          "nome": "The Lovers",
+          "parole_chiave": [
+            "unione di opposti",
+            "nozze alchemiche",
+            "integrazione"
+          ],
+          "significato": "Sintesi di polarità diverse, matrimonio interiore tra maschile e femminile.",
+          "corrispondenze": {
+            "astrologia": "Gemelli",
+            "kabbalah": "Zain",
+            "alchimia": "Nozze chimiche"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_07",
+      "name": "Il Carro",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 7,
+      "keywords": [
+        "vittoria",
+        "controllo",
+        "direzione",
+        "determinazione"
+      ],
+      "meaning": "Progresso, traguardo, capacità di guidare le forze interiori verso un obiettivo. Rovescio: Perdita di controllo, dispersione, ostacoli, mancanza di direzione chiara. Simbologia: Carro trainato da due sfingi/cavalli, armatura, città alle spalle.",
+      "variants": {
+        "RWS": {
+          "nome": "The Chariot",
+          "parole_chiave": [
+            "vittoria",
+            "controllo",
+            "direzione",
+            "determinazione"
+          ],
+          "dritto": "Progresso, traguardo, capacità di guidare le forze interiori verso un obiettivo.",
+          "rovescio": "Perdita di controllo, dispersione, ostacoli, mancanza di direzione chiara.",
+          "simbologia": "Carro trainato da due sfingi/cavalli, armatura, città alle spalle."
+        },
+        "Marsiglia": {
+          "nome": "Le Chariot",
+          "parole_chiave": [
+            "avanzamento",
+            "successo",
+            "affermazione"
+          ],
+          "significato": "Riuscita visibile, trionfo, viaggi, movimento verso una nuova fase.",
+          "note_tradizionali": "Simbolo del giovane eroe che parte per affermarsi nel mondo."
+        },
+        "Thoth": {
+          "nome": "The Chariot",
+          "parole_chiave": [
+            "trionfo spirituale",
+            "protezione",
+            "volontà diretta"
+          ],
+          "significato": "Focalizzazione delle energie interiori, protezione lungo il cammino iniziatico.",
+          "corrispondenze": {
+            "astrologia": "Cancro",
+            "kabbalah": "Cheth",
+            "alchimia": "Veicolo dell'92anima"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_08",
+      "name": "La Giustizia / La Forza (ordine variabile)",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 8,
+      "keywords": [
+        "forza interiore",
+        "coraggio",
+        "dominio degli istinti"
+      ],
+      "meaning": "Gestione dolce ma ferma delle emozioni, autocontrollo, compassione attiva. Rovescio: Debolezza, frustrazione, rabbia repressa o esplosiva, sfiducia in sé. Simbologia: Donna che apre la bocca del leone, simbolo di forza gentile e non brutale.",
+      "variants": {
+        "RWS": {
+          "nome": "Strength",
+          "parole_chiave": [
+            "forza interiore",
+            "coraggio",
+            "dominio degli istinti"
+          ],
+          "dritto": "Gestione dolce ma ferma delle emozioni, autocontrollo, compassione attiva.",
+          "rovescio": "Debolezza, frustrazione, rabbia repressa o esplosiva, sfiducia in sé.",
+          "simbologia": "Donna che apre la bocca del leone, simbolo di forza gentile e non brutale."
+        },
+        "Marsiglia": {
+          "nome": "La Justice",
+          "parole_chiave": [
+            "equilibrio",
+            "legge",
+            "responsabilità"
+          ],
+          "significato": "Valutazione oggettiva, contratti, decisioni giuste, conseguenze delle azioni.",
+          "note_tradizionali": "Arcano dell'92equilibrio karmico e delle scelte ponderate."
+        },
+        "Thoth": {
+          "nome": "Adjustment",
+          "parole_chiave": [
+            "equilibrio dinamico",
+            "verità",
+            "rettifica"
+          ],
+          "significato": "Allineamento fine con la verità interiore, aggiustamento del proprio cammino.",
+          "corrispondenze": {
+            "astrologia": "Bilancia",
+            "kabbalah": "Lamed",
+            "alchimia": "Bilanciamento di opposti"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_09",
+      "name": "L'92Eremita",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 9,
+      "keywords": [
+        "ricerca interiore",
+        "solitudine",
+        "saggezza"
+      ],
+      "meaning": "Bisogno di introspezione, allontanamento temporaneo, guida interiore che illumina il cammino. Rovescio: Isolamento sterile, chiusura al mondo, diffidenza, fuga dal confronto. Simbologia: Vecchio saggio con lanterna, cima di una montagna, bastone del pellegrino.",
+      "variants": {
+        "RWS": {
+          "nome": "The Hermit",
+          "parole_chiave": [
+            "ricerca interiore",
+            "solitudine",
+            "saggezza"
+          ],
+          "dritto": "Bisogno di introspezione, allontanamento temporaneo, guida interiore che illumina il cammino.",
+          "rovescio": "Isolamento sterile, chiusura al mondo, diffidenza, fuga dal confronto.",
+          "simbologia": "Vecchio saggio con lanterna, cima di una montagna, bastone del pellegrino."
+        },
+        "Marsiglia": {
+          "nome": "L'92Hermite",
+          "parole_chiave": [
+            "prudenza",
+            "maturità",
+            "esperienza"
+          ],
+          "significato": "Passo lento e meditato, avanzamento in silenzio, tempo di riflessione e raccolta.",
+          "note_tradizionali": "Rappresenta il maestro interiore, luce che guida ma non abbaglia."
+        },
+        "Thoth": {
+          "nome": "The Hermit",
+          "parole_chiave": [
+            "iniziazione",
+            "ritiro sacro",
+            "seme spirituale"
+          ],
+          "significato": "Gestazione interiore di una nuova coscienza, focalizzazione su un cammino intimo.",
+          "corrispondenze": {
+            "astrologia": "Vergine",
+            "kabbalah": "Yod",
+            "alchimia": "Distillazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_10",
+      "name": "La Ruota della Fortuna",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 10,
+      "keywords": [
+        "cambiamento",
+        "ciclo",
+        "destino",
+        "opportunità"
+      ],
+      "meaning": "Giro di ruota favorevole, svolta, occasione da cogliere, karma in movimento. Rovescio: Contrattempi, resistenza al cambiamento, cicli che si ripetono, sensazione di blocco. Simbologia: Ruota con creature simboliche, sfinge in cima, ascesa e discesa delle forme.",
+      "variants": {
+        "RWS": {
+          "nome": "Wheel of Fortune",
+          "parole_chiave": [
+            "cambiamento",
+            "ciclo",
+            "destino",
+            "opportunità"
+          ],
+          "dritto": "Giro di ruota favorevole, svolta, occasione da cogliere, karma in movimento.",
+          "rovescio": "Contrattempi, resistenza al cambiamento, cicli che si ripetono, sensazione di blocco.",
+          "simbologia": "Ruota con creature simboliche, sfinge in cima, ascesa e discesa delle forme."
+        },
+        "Marsiglia": {
+          "nome": "La Roue de Fortune",
+          "parole_chiave": [
+            "mutamento",
+            "instabilità",
+            "sorte"
+          ],
+          "significato": "Fase di passaggio, situazioni che cambiano rapidamente, alti e bassi.",
+          "note_tradizionali": "Ricorda che nulla è fisso: ciò che sale scende, ciò che scende può risalire."
+        },
+        "Thoth": {
+          "nome": "Fortune",
+          "parole_chiave": [
+            "rotazione",
+            "espansione",
+            "forze cosmiche"
+          ],
+          "significato": "Grande movimento di energie, punto di svolta guidato da leggi superiori.",
+          "corrispondenze": {
+            "astrologia": "Giove",
+            "kabbalah": "Kaph",
+            "alchimia": "Cicli di dissoluzione e coagulazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_11",
+      "name": "La Forza / La Giustizia (ordine variabile)",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 11,
+      "keywords": [
+        "equità",
+        "legge",
+        "verità"
+      ],
+      "meaning": "Decisioni giuste, contratti, cause legali, riconoscimento delle responsabilità. Rovescio: Ingiustizia percepita, parzialità, difficoltà ad assumersi le conseguenze delle proprie azioni. Simbologia: Figura seduta con spada e bilancia, colonna dell'92ordine.",
+      "variants": {
+        "RWS": {
+          "nome": "Justice",
+          "parole_chiave": [
+            "equità",
+            "legge",
+            "verità"
+          ],
+          "dritto": "Decisioni giuste, contratti, cause legali, riconoscimento delle responsabilità.",
+          "rovescio": "Ingiustizia percepita, parzialità, difficoltà ad assumersi le conseguenze delle proprie azioni.",
+          "simbologia": "Figura seduta con spada e bilancia, colonna dell'92ordine."
+        },
+        "Marsiglia": {
+          "nome": "La Force",
+          "parole_chiave": [
+            "dominio",
+            "energia",
+            "coraggio"
+          ],
+          "significato": "Forza dominata dall'92intelligenza, capacità di contenere e dirigere gli impulsi.",
+          "note_tradizionali": "Donna che apre la bocca del leone: la mente guida l'92istinto."
+        },
+        "Thoth": {
+          "nome": "Lust",
+          "parole_chiave": [
+            "passione sacra",
+            "energia vitale",
+            "estasi"
+          ],
+          "significato": "Esplosione di forza creativa, accettazione totale della propria natura istintuale.",
+          "corrispondenze": {
+            "astrologia": "Leone",
+            "kabbalah": "Teth",
+            "alchimia": "Leone alchemico"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_12",
+      "name": "L'92Appeso",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 12,
+      "keywords": [
+        "sospensione",
+        "sacrificio",
+        "nuova prospettiva"
+      ],
+      "meaning": "Pausa forzata o scelta, vedere le cose da un'92altra angolazione, abbandono dell'92ego. Rovescio: Stagnazione, vittimismo, rifiuto di mollare qualcosa, sacrifici sterili. Simbologia: Figura a testa in giù, alone luminoso, postura di accettazione.",
+      "variants": {
+        "RWS": {
+          "nome": "The Hanged Man",
+          "parole_chiave": [
+            "sospensione",
+            "sacrificio",
+            "nuova prospettiva"
+          ],
+          "dritto": "Pausa forzata o scelta, vedere le cose da un'92altra angolazione, abbandono dell'92ego.",
+          "rovescio": "Stagnazione, vittimismo, rifiuto di mollare qualcosa, sacrifici sterili.",
+          "simbologia": "Figura a testa in giù, alone luminoso, postura di accettazione."
+        },
+        "Marsiglia": {
+          "nome": "Le Pendu",
+          "parole_chiave": [
+            "attesa",
+            "rinuncia",
+            "rovesciamento"
+          ],
+          "significato": "Situazione bloccata, sospensione, tempo di non-azione pieno di significato.",
+          "note_tradizionali": "Può indicare sacrificio necessario oppure immobilità subita."
+        },
+        "Thoth": {
+          "nome": "The Hanged Man",
+          "parole_chiave": [
+            "sacrificio iniziatico",
+            "sospensione mistica"
+          ],
+          "significato": "Offerta volontaria dell'92ego per un livello superiore di coscienza.",
+          "corrispondenze": {
+            "astrologia": "Acqua (elemento)",
+            "kabbalah": "Mem",
+            "alchimia": "Soluzione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_13",
+      "name": "Morte (senza nome nei TdM)",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 13,
+      "keywords": [
+        "fine",
+        "trasformazione",
+        "cambiamento radicale"
+      ],
+      "meaning": "Conclusione inevitabile, chiusura di un ciclo, rinascita dopo il distacco. Rovescio: Resistenza al cambiamento, attaccamento al passato, transizione lenta e faticosa. Simbologia: Cavaliere scheletrico, sole all'92orizzonte, figure di ogni ceto sociale.",
+      "variants": {
+        "RWS": {
+          "nome": "Death",
+          "parole_chiave": [
+            "fine",
+            "trasformazione",
+            "cambiamento radicale"
+          ],
+          "dritto": "Conclusione inevitabile, chiusura di un ciclo, rinascita dopo il distacco.",
+          "rovescio": "Resistenza al cambiamento, attaccamento al passato, transizione lenta e faticosa.",
+          "simbologia": "Cavaliere scheletrico, sole all'92orizzonte, figure di ogni ceto sociale."
+        },
+        "Marsiglia": {
+          "nome": "Arcano Senza Nome",
+          "parole_chiave": [
+            "taglio",
+            "spogliazione",
+            "fine di un ciclo"
+          ],
+          "significato": "Eliminazione del superfluo, rottura netta, passaggio doloroso ma necessario.",
+          "note_tradizionali": "Simbolo potente di messa a nudo, fine di qualcosa che non può più continuare."
+        },
+        "Thoth": {
+          "nome": "Death",
+          "parole_chiave": [
+            "metamorfosi",
+            "rigenerazione",
+            "cambiamento totale"
+          ],
+          "significato": "Processo di decomposizione che permette una nuova vita, potenza della trasformazione.",
+          "corrispondenze": {
+            "astrologia": "Scorpione",
+            "kabbalah": "Nun",
+            "alchimia": "Putrefazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_14",
+      "name": "La Temperanza",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 14,
+      "keywords": [
+        "equilibrio",
+        "moderazione",
+        "integrazione"
+      ],
+      "meaning": "Armonizzazione, mediazione, collaborazione, guarigione progressiva. Rovescio: Eccessi, squilibrio, impazienza, difficoltà a integrare parti diverse di sé. Simbologia: Angelo che versa acqua tra due coppe, un piede nell'92acqua e uno sulla terra.",
+      "variants": {
+        "RWS": {
+          "nome": "Temperance",
+          "parole_chiave": [
+            "equilibrio",
+            "moderazione",
+            "integrazione"
+          ],
+          "dritto": "Armonizzazione, mediazione, collaborazione, guarigione progressiva.",
+          "rovescio": "Eccessi, squilibrio, impazienza, difficoltà a integrare parti diverse di sé.",
+          "simbologia": "Angelo che versa acqua tra due coppe, un piede nell'92acqua e uno sulla terra."
+        },
+        "Marsiglia": {
+          "nome": "Tempérance",
+          "parole_chiave": [
+            "armonizzazione",
+            "scambio",
+            "adattamento"
+          ],
+          "significato": "Cooperazione, bilanciamento, capacità di dosare e di mediare.",
+          "note_tradizionali": "Carta di comunicazione fluida, di cura e di lavori lenti ma costanti."
+        },
+        "Thoth": {
+          "nome": "Art",
+          "parole_chiave": [
+            "fusione alchemica",
+            "sintesi",
+            "trasmutazione"
+          ],
+          "significato": "Unione creativa di opposti per dare vita a una terza realtà superiore.",
+          "corrispondenze": {
+            "astrologia": "Sagittario",
+            "kabbalah": "Samekh",
+            "alchimia": "Coniunctio"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_15",
+      "name": "Il Diavolo",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 15,
+      "keywords": [
+        "dipendenza",
+        "ombra",
+        "attaccamento materiale"
+      ],
+      "meaning": "Catene inconsce, desideri compulsivi, rapporti di potere, illusioni dell'92ego. Rovescio: Liberazione da legami tossici, presa di coscienza delle proprie ombre. Simbologia: Figure incatenate al demone, ma catene allentate: possibilità di liberarsi.",
+      "variants": {
+        "RWS": {
+          "nome": "The Devil",
+          "parole_chiave": [
+            "dipendenza",
+            "ombra",
+            "attaccamento materiale"
+          ],
+          "dritto": "Catene inconsce, desideri compulsivi, rapporti di potere, illusioni dell'92ego.",
+          "rovescio": "Liberazione da legami tossici, presa di coscienza delle proprie ombre.",
+          "simbologia": "Figure incatenate al demone, ma catene allentate: possibilità di liberarsi."
+        },
+        "Marsiglia": {
+          "nome": "Le Diable",
+          "parole_chiave": [
+            "istinti",
+            "magnetismo",
+            "eccessi"
+          ],
+          "significato": "Forze istintive e seduttive, attrazione, potere personale che può essere usato bene o male.",
+          "note_tradizionali": "Carta di forte energia, può indicare anche vitalità sessuale e fascino."
+        },
+        "Thoth": {
+          "nome": "The Devil",
+          "parole_chiave": [
+            "energia grezza",
+            "materialità",
+            "brama"
+          ],
+          "significato": "Forza creativa concentrata nella materia, potenziale di schiavitù o di grande creatività.",
+          "corrispondenze": {
+            "astrologia": "Capricorno",
+            "kabbalah": "Ayin",
+            "alchimia": "Cristallizzazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_16",
+      "name": "La Torre",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 16,
+      "keywords": [
+        "crollo",
+        "rivelazione",
+        "shock"
+      ],
+      "meaning": "Caduta di strutture false, eventi improvvisi, verità che spazza via le illusioni. Rovescio: Paura del cambiamento, crisi evitata a metà, instabilità prolungata. Simbologia: Fulmine sulla torre, personaggi che cadono, corona che si stacca.",
+      "variants": {
+        "RWS": {
+          "nome": "The Tower",
+          "parole_chiave": [
+            "crollo",
+            "rivelazione",
+            "shock"
+          ],
+          "dritto": "Caduta di strutture false, eventi improvvisi, verità che spazza via le illusioni.",
+          "rovescio": "Paura del cambiamento, crisi evitata a metà, instabilità prolungata.",
+          "simbologia": "Fulmine sulla torre, personaggi che cadono, corona che si stacca."
+        },
+        "Marsiglia": {
+          "nome": "La Maison Dieu",
+          "parole_chiave": [
+            "crollo",
+            "liberazione",
+            "energia esplosiva"
+          ],
+          "significato": "Esplosione di qualcosa trattenuto, rottura liberante, colpi di scena.",
+          "note_tradizionali": "Può indicare anche liberazione di energia creativa o spirituale repressa."
+        },
+        "Thoth": {
+          "nome": "The Tower",
+          "parole_chiave": [
+            "distruzione creativa",
+            "rovesciamento",
+            "shock spirituale"
+          ],
+          "significato": "Smantellamento di strutture interiori obsolescenti, necessario per un nuovo ordine.",
+          "corrispondenze": {
+            "astrologia": "Marte",
+            "kabbalah": "Peh",
+            "alchimia": "Calcinazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_17",
+      "name": "La Stella",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 17,
+      "keywords": [
+        "speranza",
+        "ispirazione",
+        "guarigione"
+      ],
+      "meaning": "Fiducia nel futuro, guida interiore, rinascita dopo una crisi, purezza d'92intento. Rovescio: Sfiducia, pessimismo, difficoltà a vedere la strada, illusioni idealizzate. Simbologia: Donna nuda che versa acqua, stella luminosa centrale, serenità notturna.",
+      "variants": {
+        "RWS": {
+          "nome": "The Star",
+          "parole_chiave": [
+            "speranza",
+            "ispirazione",
+            "guarigione"
+          ],
+          "dritto": "Fiducia nel futuro, guida interiore, rinascita dopo una crisi, purezza d'92intento.",
+          "rovescio": "Sfiducia, pessimismo, difficoltà a vedere la strada, illusioni idealizzate.",
+          "simbologia": "Donna nuda che versa acqua, stella luminosa centrale, serenità notturna."
+        },
+        "Marsiglia": {
+          "nome": "L'92Étoile",
+          "parole_chiave": [
+            "protezione",
+            "semplicità",
+            "vocazione"
+          ],
+          "significato": "Periodo favorevole, aiuto sottile, fiducia e autenticità.",
+          "note_tradizionali": "Spesso considerata una carta molto positiva, di dolcezza e ispirazione."
+        },
+        "Thoth": {
+          "nome": "The Star",
+          "parole_chiave": [
+            "flusso spirituale",
+            "visione",
+            "rigenerazione"
+          ],
+          "significato": "Connessione con il flusso dell'92anima, visioni, contatto con dimensioni superiori.",
+          "corrispondenze": {
+            "astrologia": "Acquario",
+            "kabbalah": "Tzaddi",
+            "alchimia": "Sublimazione"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_18",
+      "name": "La Luna",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 18,
+      "keywords": [
+        "inconscio",
+        "paure",
+        "illusioni",
+        "sensibilità"
+      ],
+      "meaning": "Sogni, intuizione forte ma confusa, ansie, fasi di smarrimento o di passaggio. Rovescio: Chiarezza graduale, superamento delle paure, fine di un'92illusione. Simbologia: Luna, cani/lupi che abbaiano, crostaceo che emerge dall'92acqua, sentiero sinuoso.",
+      "variants": {
+        "RWS": {
+          "nome": "The Moon",
+          "parole_chiave": [
+            "inconscio",
+            "paure",
+            "illusioni",
+            "sensibilità"
+          ],
+          "dritto": "Sogni, intuizione forte ma confusa, ansie, fasi di smarrimento o di passaggio.",
+          "rovescio": "Chiarezza graduale, superamento delle paure, fine di un'92illusione.",
+          "simbologia": "Luna, cani/lupi che abbaiano, crostaceo che emerge dall'92acqua, sentiero sinuoso."
+        },
+        "Marsiglia": {
+          "nome": "La Lune",
+          "parole_chiave": [
+            "immaginazione",
+            "nostalgia",
+            "insicurezza"
+          ],
+          "significato": "Emozioni profonde, ricordi, stati onirici, confusione affettiva.",
+          "note_tradizionali": "Indica anche il passato che ritorna e le influenze familiari."
+        },
+        "Thoth": {
+          "nome": "The Moon",
+          "parole_chiave": [
+            "prova iniziatica",
+            "oscurità fertile",
+            "labirinto interiore"
+          ],
+          "significato": "Attraversamento di zone d'92ombra, illusioni collettive, necessità di non fidarsi solo dei sensi.",
+          "corrispondenze": {
+            "astrologia": "Pesci",
+            "kabbalah": "Qoph",
+            "alchimia": "Nigredo psichico"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_19",
+      "name": "Il Sole",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 19,
+      "keywords": [
+        "gioia",
+        "successo",
+        "energia",
+        "chiarezza"
+      ],
+      "meaning": "Vitalità, risultati positivi, felicità, riconoscimento, trasparenza. Rovescio: Energia calante, eccesso di ottimismo, immaturità, bisogno di realisticità. Simbologia: Sole radiante, bambino sul cavallo, girasoli, muro che delimita lo spazio protetto.",
+      "variants": {
+        "RWS": {
+          "nome": "The Sun",
+          "parole_chiave": [
+            "gioia",
+            "successo",
+            "energia",
+            "chiarezza"
+          ],
+          "dritto": "Vitalità, risultati positivi, felicità, riconoscimento, trasparenza.",
+          "rovescio": "Energia calante, eccesso di ottimismo, immaturità, bisogno di realisticità.",
+          "simbologia": "Sole radiante, bambino sul cavallo, girasoli, muro che delimita lo spazio protetto."
+        },
+        "Marsiglia": {
+          "nome": "Le Soleil",
+          "parole_chiave": [
+            "luminosità",
+            "relazione",
+            "calore"
+          ],
+          "significato": "Accordi, collaborazione, amore sincero, progresso evidente.",
+          "note_tradizionali": "Carta di riuscita e di protezione, spesso legata alla famiglia e all'92unione."
+        },
+        "Thoth": {
+          "nome": "The Sun",
+          "parole_chiave": [
+            "illuminazione",
+            "integrazione",
+            "gioia consapevole"
+          ],
+          "significato": "Manifestazione piena del sé, luce interiore che rischiara ogni angolo.",
+          "corrispondenze": {
+            "astrologia": "Sole",
+            "kabbalah": "Resh",
+            "alchimia": "Oro"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_20",
+      "name": "Il Giudizio",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 20,
+      "keywords": [
+        "risveglio",
+        "chiamata",
+        "rinascita"
+      ],
+      "meaning": "Nuova consapevolezza, chiamata della vita a un livello superiore, resa dei conti benefica. Rovescio: Rifiuto della chiamata, paura di cambiare vita, difficoltà a perdonare o perdonarsi. Simbologia: Angelo che suona la tromba, figure che risorgono dalle tombe.",
+      "variants": {
+        "RWS": {
+          "nome": "Judgement",
+          "parole_chiave": [
+            "risveglio",
+            "chiamata",
+            "rinascita"
+          ],
+          "dritto": "Nuova consapevolezza, chiamata della vita a un livello superiore, resa dei conti benefica.",
+          "rovescio": "Rifiuto della chiamata, paura di cambiare vita, difficoltà a perdonare o perdonarsi.",
+          "simbologia": "Angelo che suona la tromba, figure che risorgono dalle tombe."
+        },
+        "Marsiglia": {
+          "nome": "Le Jugement",
+          "parole_chiave": [
+            "annuncio",
+            "novità",
+            "risveglio"
+          ],
+          "significato": "Notizie importanti, cambi di stato, rivelazioni che rimettono in moto la vita.",
+          "note_tradizionali": "Può indicare ritorni, riconciliazioni o bruschi cambi di situazione."
+        },
+        "Thoth": {
+          "nome": "The Aeon",
+          "parole_chiave": [
+            "nuova era",
+            "trascendimento",
+            "giudizio interiore"
+          ],
+          "significato": "Passaggio epocale di coscienza, superamento del vecchio paradigma.",
+          "corrispondenze": {
+            "astrologia": "Fuoco (elemento)",
+            "kabbalah": "Shin",
+            "alchimia": "Rinascita dal fuoco"
+          }
+        }
+      }
+    },
+    {
+      "id": "major_21",
+      "name": "Il Mondo",
+      "arcana": "Maggiore",
+      "suit": null,
+      "number": 21,
+      "keywords": [
+        "compimento",
+        "realizzazione",
+        "completezza"
+      ],
+      "meaning": "Fine positiva di un ciclo, successo pieno, integrazione, viaggio, espansione. Rovescio: Ciclo non del tutto concluso, rimandi, sensazione di '93quasi'94 ma non ancora. Simbologia: Figura danzante in una ghirlanda, quattro simboli degli evangelisti/segni fissi.",
+      "variants": {
+        "RWS": {
+          "nome": "The World",
+          "parole_chiave": [
+            "compimento",
+            "realizzazione",
+            "completezza"
+          ],
+          "dritto": "Fine positiva di un ciclo, successo pieno, integrazione, viaggio, espansione.",
+          "rovescio": "Ciclo non del tutto concluso, rimandi, sensazione di '93quasi'94 ma non ancora.",
+          "simbologia": "Figura danzante in una ghirlanda, quattro simboli degli evangelisti/segni fissi."
+        },
+        "Marsiglia": {
+          "nome": "Le Monde",
+          "parole_chiave": [
+            "totalità",
+            "pienezza",
+            "protezione"
+          ],
+          "significato": "Coronamento, posizione favorevole, armonia generale, riconoscimento.",
+          "note_tradizionali": "Spesso considerata la carta più favorevole del mazzo: completamento e compimento."
+        },
+        "Thoth": {
+          "nome": "The Universe",
+          "parole_chiave": [
+            "cosmo",
+            "integrazione totale",
+            "chiusura di un ciclo karmico"
+          ],
+          "significato": "Realizzazione globale, coscienza che abbraccia il tutto, nuova soglia di esistenza.",
+          "corrispondenze": {
+            "astrologia": "Saturno",
+            "kabbalah": "Tav",
+            "alchimia": "Opera completata"
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_01",
+      "name": "Asso di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 1,
+      "keywords": [
+        "inizio",
+        "energia",
+        "ispirazione"
+      ],
+      "meaning": "Nuovo impulso creativo, entusiasmo, occasione d'92azione, nascita di un progetto. Rovescio: Mancanza di slancio, occasione che non decolla, entusiasmo bloccato o rimandato.",
+      "variants": {
+        "RWS": {
+          "nome": "Ace of Wands",
+          "parole_chiave": [
+            "inizio",
+            "energia",
+            "ispirazione"
+          ],
+          "dritto": "Nuovo impulso creativo, entusiasmo, occasione d'92azione, nascita di un progetto.",
+          "rovescio": "Mancanza di slancio, occasione che non decolla, entusiasmo bloccato o rimandato.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "As de Baton",
+          "parole_chiave": [
+            "germinazione",
+            "forza vitale",
+            "slancio"
+          ],
+          "significato": "Forza grezza disponibile, iniziativa, potere di cominciare qualcosa di nuovo.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ace of Wands",
+          "parole_chiave": [
+            "fuoco puro",
+            "volontà",
+            "impulso creativo"
+          ],
+          "significato": "Potenza primaria del fuoco: desiderio di creare, energia spirituale concentrata.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_02",
+      "name": "Due di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 2,
+      "keywords": [
+        "pianificazione",
+        "scelta",
+        "visione"
+      ],
+      "meaning": "Valutazione delle opzioni, programmazione, desiderio di espandersi, visione a lungo termine. Rovescio: Paura di rischiare, restare nella zona di comfort, opportunità non colte.",
+      "variants": {
+        "RWS": {
+          "nome": "Two of Wands",
+          "parole_chiave": [
+            "pianificazione",
+            "scelta",
+            "visione"
+          ],
+          "dritto": "Valutazione delle opzioni, programmazione, desiderio di espandersi, visione a lungo termine.",
+          "rovescio": "Paura di rischiare, restare nella zona di comfort, opportunità non colte.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Deux de Baton",
+          "parole_chiave": [
+            "dualità",
+            "decisione",
+            "inizio strutturato"
+          ],
+          "significato": "Biforcazione dell'92energia creativa: è il momento di decidere come usarla.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Two of Wands",
+          "parole_chiave": [
+            "dominio",
+            "potere",
+            "affermazione"
+          ],
+          "significato": "Volontà forte che cerca di imporsi e dominare l'92ambiente.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_03",
+      "name": "Tre di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 3,
+      "keywords": [
+        "espansione",
+        "attesa",
+        "progresso"
+      ],
+      "meaning": "I primi risultati si intravedono, le iniziative prendono forma, possibilità di crescita. Rovescio: Ritardi, difficoltà nell'92espandersi, aspettative disattese.",
+      "variants": {
+        "RWS": {
+          "nome": "Three of Wands",
+          "parole_chiave": [
+            "espansione",
+            "attesa",
+            "progresso"
+          ],
+          "dritto": "I primi risultati si intravedono, le iniziative prendono forma, possibilità di crescita.",
+          "rovescio": "Ritardi, difficoltà nell'92espandersi, aspettative disattese.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Trois de Baton",
+          "parole_chiave": [
+            "sviluppo",
+            "crescita",
+            "collaborazione"
+          ],
+          "significato": "Consolidamento del progetto, forze che si coordinano, sviluppo graduale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Three of Wands",
+          "parole_chiave": [
+            "virtù",
+            "forza armonizzata",
+            "slancio riuscito"
+          ],
+          "significato": "Energia del fuoco che agisce con efficacia, azioni ben direzionate.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_04",
+      "name": "Quattro di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 4,
+      "keywords": [
+        "celebrazione",
+        "stabilità",
+        "casa"
+      ],
+      "meaning": "Festeggiamenti, armonia familiare, traguardo raggiunto, senso di appartenenza. Rovescio: Instabilità domestica, ritardo nelle celebrazioni, difficoltà a sentirsi '93a casa'94.",
+      "variants": {
+        "RWS": {
+          "nome": "Four of Wands",
+          "parole_chiave": [
+            "celebrazione",
+            "stabilità",
+            "casa"
+          ],
+          "dritto": "Festeggiamenti, armonia familiare, traguardo raggiunto, senso di appartenenza.",
+          "rovescio": "Instabilità domestica, ritardo nelle celebrazioni, difficoltà a sentirsi '93a casa'94.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Quatre de Baton",
+          "parole_chiave": [
+            "struttura",
+            "fondamento",
+            "ordine"
+          ],
+          "significato": "Stabilizzazione di un progetto, base solida su cui costruire.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Four of Wands",
+          "parole_chiave": [
+            "completamento",
+            "armonia",
+            "accordo"
+          ],
+          "significato": "Conclusione soddisfacente di una prima fase, armonia di intenti.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_05",
+      "name": "Cinque di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 5,
+      "keywords": [
+        "conflitto",
+        "competizione",
+        "tensione"
+      ],
+      "meaning": "Contrasti, confronto di idee, conflitto creativo, rivalità. Rovescio: Stanchezza per le tensioni, conflitti inutili, desiderio di pace o di evitare lo scontro.",
+      "variants": {
+        "RWS": {
+          "nome": "Five of Wands",
+          "parole_chiave": [
+            "conflitto",
+            "competizione",
+            "tensione"
+          ],
+          "dritto": "Contrasti, confronto di idee, conflitto creativo, rivalità.",
+          "rovescio": "Stanchezza per le tensioni, conflitti inutili, desiderio di pace o di evitare lo scontro.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cinq de Baton",
+          "parole_chiave": [
+            "lotta",
+            "instabilità",
+            "prova"
+          ],
+          "significato": "Energia dispersa in contrasti, prove che mettono alla prova la tenuta del progetto.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Five of Wands",
+          "parole_chiave": [
+            "conflitto",
+            "stridio",
+            "attrito"
+          ],
+          "significato": "Forze in collisione, tensioni forti che possono però stimolare il cambiamento.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_06",
+      "name": "Sei di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 6,
+      "keywords": [
+        "vittoria",
+        "riconoscimento",
+        "successo"
+      ],
+      "meaning": "Trionfo, apprezzamento pubblico, risultati evidenti, autostima rinforzata. Rovescio: Mancato riconoscimento, successo effimero, timore di non essere all'92altezza.",
+      "variants": {
+        "RWS": {
+          "nome": "Six of Wands",
+          "parole_chiave": [
+            "vittoria",
+            "riconoscimento",
+            "successo"
+          ],
+          "dritto": "Trionfo, apprezzamento pubblico, risultati evidenti, autostima rinforzata.",
+          "rovescio": "Mancato riconoscimento, successo effimero, timore di non essere all'92altezza.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Six de Baton",
+          "parole_chiave": [
+            "conquista",
+            "avanzamento",
+            "sostegno"
+          ],
+          "significato": "Raggiungimento di una tappa importante, appoggi che facilitano il cammino.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Six of Wands",
+          "parole_chiave": [
+            "vittoria",
+            "affermazione",
+            "successo meritato"
+          ],
+          "significato": "Superamento degli ostacoli, trionfo grazie alla fermezza della volontà.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_07",
+      "name": "Sette di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 7,
+      "keywords": [
+        "difesa",
+        "posizione",
+        "coraggio"
+      ],
+      "meaning": "Difesa dei propri valori, lotta in posizione elevata, resilienza. Rovescio: Senso di essere sopraffatti, difficoltà a sostenere la pressione, rinuncia.",
+      "variants": {
+        "RWS": {
+          "nome": "Seven of Wands",
+          "parole_chiave": [
+            "difesa",
+            "posizione",
+            "coraggio"
+          ],
+          "dritto": "Difesa dei propri valori, lotta in posizione elevata, resilienza.",
+          "rovescio": "Senso di essere sopraffatti, difficoltà a sostenere la pressione, rinuncia.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Sept de Baton",
+          "parole_chiave": [
+            "resistenza",
+            "impegno",
+            "tenacia"
+          ],
+          "significato": "Sforzo prolungato, bisogno di perseverare nonostante le difficoltà.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Seven of Wands",
+          "parole_chiave": [
+            "valore",
+            "sfida",
+            "difesa coraggiosa"
+          ],
+          "significato": "Reazione energica contro circostanze avverse, prova del proprio coraggio.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_08",
+      "name": "Otto di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 8,
+      "keywords": [
+        "rapidità",
+        "movimento",
+        "comunicazioni"
+      ],
+      "meaning": "Eventi veloci, viaggi, messaggi in arrivo, accelerazione dei tempi. Rovescio: Ritardi, confusione, direzioni poco chiare, comunicazioni bloccate o distorte.",
+      "variants": {
+        "RWS": {
+          "nome": "Eight of Wands",
+          "parole_chiave": [
+            "rapidità",
+            "movimento",
+            "comunicazioni"
+          ],
+          "dritto": "Eventi veloci, viaggi, messaggi in arrivo, accelerazione dei tempi.",
+          "rovescio": "Ritardi, confusione, direzioni poco chiare, comunicazioni bloccate o distorte.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Huit de Baton",
+          "parole_chiave": [
+            "dinamismo",
+            "impulso",
+            "flusso"
+          ],
+          "significato": "Energia che scorre rapidamente, necessità di adattarsi a cambi repentini.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Eight of Wands",
+          "parole_chiave": [
+            "rapidità",
+            "sincronicità",
+            "azione coordinata"
+          ],
+          "significato": "Movimento armonico delle energie, ciò che deve accadere trova rapidamente la sua via.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_09",
+      "name": "Nove di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 9,
+      "keywords": [
+        "resilienza",
+        "difesa",
+        "stanchezza"
+      ],
+      "meaning": "Resistere fino alla fine, proteggere ciò che si è conquistato, prudenza. Rovescio: Esaurimento, sfiducia, sensazione di non farcela più, iper-difesa.",
+      "variants": {
+        "RWS": {
+          "nome": "Nine of Wands",
+          "parole_chiave": [
+            "resilienza",
+            "difesa",
+            "stanchezza"
+          ],
+          "dritto": "Resistere fino alla fine, proteggere ciò che si è conquistato, prudenza.",
+          "rovescio": "Esaurimento, sfiducia, sensazione di non farcela più, iper-difesa.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Neuf de Baton",
+          "parole_chiave": [
+            "fatica",
+            "perseveranza",
+            "protezione"
+          ],
+          "significato": "Ultimo sforzo prima del traguardo, necessità di gestire le energie.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Nine of Wands",
+          "parole_chiave": [
+            "forza",
+            "resistenza",
+            "stabilità del fuoco"
+          ],
+          "significato": "Energia indomita che non cede, forza interiore consolidata dopo molte prove.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_10",
+      "name": "Dieci di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": 10,
+      "keywords": [
+        "peso",
+        "responsabilità",
+        "sovraccarico"
+      ],
+      "meaning": "Troppe responsabilità, carico eccessivo, bisogno di delegare o alleggerire. Rovescio: Rilascio del peso, riconoscere che ci si è caricati troppo, rifiuto di ulteriori fardelli.",
+      "variants": {
+        "RWS": {
+          "nome": "Ten of Wands",
+          "parole_chiave": [
+            "peso",
+            "responsabilità",
+            "sovraccarico"
+          ],
+          "dritto": "Troppe responsabilità, carico eccessivo, bisogno di delegare o alleggerire.",
+          "rovescio": "Rilascio del peso, riconoscere che ci si è caricati troppo, rifiuto di ulteriori fardelli.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Dix de Baton",
+          "parole_chiave": [
+            "eccesso",
+            "compressione",
+            "fine ciclo"
+          ],
+          "significato": "Energia sovraccaricata, sforzo massimo che preannuncia una svolta o un cambio di rotta.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ten of Wands",
+          "parole_chiave": [
+            "oppressione",
+            "blocco",
+            "fuoco distorto"
+          ],
+          "significato": "Energia che non trova sfogo, senso di oppressione e fatica estrema.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_page",
+      "name": "Fante di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": null,
+      "keywords": [
+        "messaggio",
+        "novità",
+        "entusiasmo"
+      ],
+      "meaning": "Notizie stimolanti, opportunità fresche, persona giovane e intraprendente. Rovescio: Immaturità, incostanza, idee entusiaste che però non vengono concretizzate.",
+      "variants": {
+        "RWS": {
+          "nome": "Page of Wands",
+          "parole_chiave": [
+            "messaggio",
+            "novità",
+            "entusiasmo"
+          ],
+          "dritto": "Notizie stimolanti, opportunità fresche, persona giovane e intraprendente.",
+          "rovescio": "Immaturità, incostanza, idee entusiaste che però non vengono concretizzate.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Valet de Baton",
+          "parole_chiave": [
+            "apprendista",
+            "inizio",
+            "curiosità"
+          ],
+          "significato": "Giovane energia creativa in formazione, voglia di sperimentare.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Princess of Wands",
+          "parole_chiave": [
+            "slancio giovane",
+            "passione",
+            "rinascita del fuoco"
+          ],
+          "significato": "Esplosione di vitalità creativa, voglia di vivere e di cambiare.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_knight",
+      "name": "Cavaliere di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": null,
+      "keywords": [
+        "impulso",
+        "viaggio",
+        "azione"
+      ],
+      "meaning": "Slancio deciso, coraggio, spostamenti, cambi repentini, spirito avventuroso. Rovescio: Impulsività, irrequietezza, azioni avventate, esplosioni di rabbia o entusiasmo.",
+      "variants": {
+        "RWS": {
+          "nome": "Knight of Wands",
+          "parole_chiave": [
+            "impulso",
+            "viaggio",
+            "azione"
+          ],
+          "dritto": "Slancio deciso, coraggio, spostamenti, cambi repentini, spirito avventuroso.",
+          "rovescio": "Impulsività, irrequietezza, azioni avventate, esplosioni di rabbia o entusiasmo.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cavalier de Baton",
+          "parole_chiave": [
+            "movimento",
+            "intraprendenza",
+            "dinamismo"
+          ],
+          "significato": "Persona o energia che spinge a cambiare luogo, ruolo o situazione.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Prince of Wands",
+          "parole_chiave": [
+            "fuoco in movimento",
+            "volontà attiva",
+            "carisma"
+          ],
+          "significato": "Energia magnetica, leadership istintiva, slancio trascinante.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_queen",
+      "name": "Regina di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": null,
+      "keywords": [
+        "carisma",
+        "calore",
+        "indipendenza"
+      ],
+      "meaning": "Donna sicura di sé, creativa, passionale, capace di guidare con entusiasmo. Rovescio: Gelosia, impulsività emotiva, tendenza al controllo, orgoglio ferito.",
+      "variants": {
+        "RWS": {
+          "nome": "Queen of Wands",
+          "parole_chiave": [
+            "carisma",
+            "calore",
+            "indipendenza"
+          ],
+          "dritto": "Donna sicura di sé, creativa, passionale, capace di guidare con entusiasmo.",
+          "rovescio": "Gelosia, impulsività emotiva, tendenza al controllo, orgoglio ferito.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Reine de Baton",
+          "parole_chiave": [
+            "autorità femminile",
+            "creatività",
+            "determinazione"
+          ],
+          "significato": "Donna energica e volitiva, ruolo guida in ambito creativo o sociale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Queen of Wands",
+          "parole_chiave": [
+            "fuoco maturo",
+            "passione consapevole",
+            "magnetismo"
+          ],
+          "significato": "Energia femminile ardente, capace di attrarre e trasformare l'92ambiente.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_wands_king",
+      "name": "Re di Bastoni",
+      "arcana": "Minore",
+      "suit": "Bastoni",
+      "number": null,
+      "keywords": [
+        "leadership",
+        "visione",
+        "iniziativa"
+      ],
+      "meaning": "Guida carismatica, imprenditorialità, decisione, capacità di ispirare gli altri. Rovescio: Autoritarismo, impulsività egoica, dominanza, frustrazione per il mancato controllo.",
+      "variants": {
+        "RWS": {
+          "nome": "King of Wands",
+          "parole_chiave": [
+            "leadership",
+            "visione",
+            "iniziativa"
+          ],
+          "dritto": "Guida carismatica, imprenditorialità, decisione, capacità di ispirare gli altri.",
+          "rovescio": "Autoritarismo, impulsività egoica, dominanza, frustrazione per il mancato controllo.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Roi de Baton",
+          "parole_chiave": [
+            "comando",
+            "autorità",
+            "determinazione"
+          ],
+          "significato": "Figura maschile forte, capace di dirigere e portare avanti progetti ambiziosi.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Knight of Wands",
+          "parole_chiave": [
+            "fuoco dominante",
+            "energia esplosiva",
+            "volontà ardente"
+          ],
+          "significato": "Potenza del fuoco portata al massimo, grande forza di iniziativa e rischio.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_01",
+      "name": "Asso di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 1,
+      "keywords": [
+        "amore",
+        "emozioni",
+        "intuizione",
+        "flusso"
+      ],
+      "meaning": "Apertura emotiva, nascita di sentimenti, intuizioni profonde, guarigione affettiva. Rovescio: Blocchi emotivi, tristezza trattenuta, difficoltà ad aprirsi, energia affettiva stagnante.",
+      "variants": {
+        "RWS": {
+          "nome": "Ace of Cups",
+          "parole_chiave": [
+            "amore",
+            "emozioni",
+            "intuizione",
+            "flusso"
+          ],
+          "dritto": "Apertura emotiva, nascita di sentimenti, intuizioni profonde, guarigione affettiva.",
+          "rovescio": "Blocchi emotivi, tristezza trattenuta, difficoltà ad aprirsi, energia affettiva stagnante.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "As de Coupe",
+          "parole_chiave": [
+            "origine",
+            "sensibilità",
+            "ricettività"
+          ],
+          "significato": "Potenziale affettivo puro, ricettività, intuizione ancora non manifestata.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ace of Cups",
+          "parole_chiave": [
+            "acqua pura",
+            "nascita emotiva",
+            "fertilità dello spirito"
+          ],
+          "significato": "Sorgente dell'92amore spirituale, apertura totale del cuore, benedizione interiore.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_02",
+      "name": "Due di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 2,
+      "keywords": [
+        "unione",
+        "armonia",
+        "accordo"
+      ],
+      "meaning": "Incontro significativo, relazione che cresce, feeling reciproco, armonia profonda. Rovescio: Disarmonia, distacco, squilibrio nella relazione, incomprensioni affettive.",
+      "variants": {
+        "RWS": {
+          "nome": "Two of Cups",
+          "parole_chiave": [
+            "unione",
+            "armonia",
+            "accordo"
+          ],
+          "dritto": "Incontro significativo, relazione che cresce, feeling reciproco, armonia profonda.",
+          "rovescio": "Disarmonia, distacco, squilibrio nella relazione, incomprensioni affettive.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Deux de Coupe",
+          "parole_chiave": [
+            "attrazione",
+            "scambio",
+            "reciprocità"
+          ],
+          "significato": "Collaborazione emotiva, legame affettivo che si stabilisce, alleanza.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Two of Cups",
+          "parole_chiave": [
+            "amore",
+            "attrazione",
+            "connessione"
+          ],
+          "significato": "Armonia perfetta tra due energie, amore puro e bilanciato.",
+          "corrispondenze": {
+            "astrologogia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_03",
+      "name": "Tre di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 3,
+      "keywords": [
+        "celebrazione",
+        "amicizia",
+        "comunità"
+      ],
+      "meaning": "Feste, condivisione, supporto affettivo, cerchio sociale positivo. Rovescio: Eccessi, esclusione, triangoli emotivi, amicizie instabili o pettegolezzi.",
+      "variants": {
+        "RWS": {
+          "nome": "Three of Cups",
+          "parole_chiave": [
+            "celebrazione",
+            "amicizia",
+            "comunità"
+          ],
+          "dritto": "Feste, condivisione, supporto affettivo, cerchio sociale positivo.",
+          "rovescio": "Eccessi, esclusione, triangoli emotivi, amicizie instabili o pettegolezzi.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Trois de Coupe",
+          "parole_chiave": [
+            "gioia",
+            "scambio",
+            "aggregazione"
+          ],
+          "significato": "Solidarietà, gruppo armonioso, collaborazione sociale o familiare.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Three of Cups",
+          "parole_chiave": [
+            "abbondanza",
+            "nutrimento emotivo",
+            "flusso condiviso"
+          ],
+          "significato": "Fioritura delle emozioni, prosperità affettiva, piacere condiviso.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_04",
+      "name": "Quattro di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 4,
+      "keywords": [
+        "apatia",
+        "riflessione",
+        "distacco"
+      ],
+      "meaning": "Ritiro emotivo, noia, disillusione, necessità di introspezione prima di scegliere. Rovescio: Risveglio emotivo, nuova motivazione, apertura a nuove possibilità.",
+      "variants": {
+        "RWS": {
+          "nome": "Four of Cups",
+          "parole_chiave": [
+            "apatia",
+            "riflessione",
+            "distacco"
+          ],
+          "dritto": "Ritiro emotivo, noia, disillusione, necessità di introspezione prima di scegliere.",
+          "rovescio": "Risveglio emotivo, nuova motivazione, apertura a nuove possibilità.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Quatre de Coupe",
+          "parole_chiave": [
+            "stabilità emotiva",
+            "saturazione",
+            "quiete"
+          ],
+          "significato": "Consolidamento delle emozioni, ma rischio di stagnazione affettiva.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Four of Cups",
+          "parole_chiave": [
+            "lussuria",
+            "saturazione",
+            "stanchezza emotiva"
+          ],
+          "significato": "Eccesso di piacere emotivo che porta a stagnazione e insoddisfazione profonda.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_05",
+      "name": "Cinque di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 5,
+      "keywords": [
+        "perdita",
+        "delusione",
+        "rimpianto"
+      ],
+      "meaning": "Dolore per ciò che è andato perso, rimpianti, difficoltà a vedere ciò che resta. Rovescio: Guarigione emotiva, perdono, riscoperta di risorse interiori.",
+      "variants": {
+        "RWS": {
+          "nome": "Five of Cups",
+          "parole_chiave": [
+            "perdita",
+            "delusione",
+            "rimpianto"
+          ],
+          "dritto": "Dolore per ciò che è andato perso, rimpianti, difficoltà a vedere ciò che resta.",
+          "rovescio": "Guarigione emotiva, perdono, riscoperta di risorse interiori.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cinq de Coupe",
+          "parole_chiave": [
+            "rottura emotiva",
+            "mancanza",
+            "tristezza"
+          ],
+          "significato": "Momento di crisi affettiva, perdita di equilibrio emotivo.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Five of Cups",
+          "parole_chiave": [
+            "delusione",
+            "collasso emotivo"
+          ],
+          "significato": "Energia emotiva che si svuota o si distorce, dolore profondo ma rivelatore.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_06",
+      "name": "Sei di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 6,
+      "keywords": [
+        "memoria",
+        "nostalgia",
+        "innocenza"
+      ],
+      "meaning": "Ricordi positivi, conforto, ritorno del passato, rapporti sinceri e spontanei. Rovescio: Idealizzazione del passato, difficoltà a vivere il presente, regressione emotiva.",
+      "variants": {
+        "RWS": {
+          "nome": "Six of Cups",
+          "parole_chiave": [
+            "memoria",
+            "nostalgia",
+            "innocenza"
+          ],
+          "dritto": "Ricordi positivi, conforto, ritorno del passato, rapporti sinceri e spontanei.",
+          "rovescio": "Idealizzazione del passato, difficoltà a vivere il presente, regressione emotiva.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Six de Coupe",
+          "parole_chiave": [
+            "armonia",
+            "scambio",
+            "affetto"
+          ],
+          "significato": "Equilibrio emotivo, legami familiari, situazioni serene e sincere.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Six of Cups",
+          "parole_chiave": [
+            "piacere",
+            "bellezza",
+            "dolcezza"
+          ],
+          "significato": "Armonia emotiva pura, gioia semplice, nutrimento affettivo benefico.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_07",
+      "name": "Sette di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 7,
+      "keywords": [
+        "illusione",
+        "desiderio",
+        "fantasia"
+      ],
+      "meaning": "Scelte confuse, tentazioni, immaginazione fertile ma dispersiva, mancanza di focus. Rovescio: Chiarezza, scelta concreta, superamento delle illusioni e delle dipendenze emotive.",
+      "variants": {
+        "RWS": {
+          "nome": "Seven of Cups",
+          "parole_chiave": [
+            "illusione",
+            "desiderio",
+            "fantasia"
+          ],
+          "dritto": "Scelte confuse, tentazioni, immaginazione fertile ma dispersiva, mancanza di focus.",
+          "rovescio": "Chiarezza, scelta concreta, superamento delle illusioni e delle dipendenze emotive.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Sept de Coupe",
+          "parole_chiave": [
+            "eccesso",
+            "idealizzazione",
+            "disordine emotivo"
+          ],
+          "significato": "Confusione nei sentimenti, aspettative eccessive o irrealistiche.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Seven of Cups",
+          "parole_chiave": [
+            "corruzione",
+            "illusione",
+            "distorsione emotiva"
+          ],
+          "significato": "Emozioni deviate, desideri mal indirizzati, bisogno urgente di purificazione.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_08",
+      "name": "Otto di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 8,
+      "keywords": [
+        "distacco",
+        "transizione",
+        "ricerca"
+      ],
+      "meaning": "Lasciare ciò che non nutre più, ricerca di senso, cambiamento volontario. Rovescio: Paura di lasciar andare, attaccamento emotivo a situazioni esaurite.",
+      "variants": {
+        "RWS": {
+          "nome": "Eight of Cups",
+          "parole_chiave": [
+            "distacco",
+            "transizione",
+            "ricerca"
+          ],
+          "dritto": "Lasciare ciò che non nutre più, ricerca di senso, cambiamento volontario.",
+          "rovescio": "Paura di lasciar andare, attaccamento emotivo a situazioni esaurite.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Huit de Coupe",
+          "parole_chiave": [
+            "partenza",
+            "allontanamento",
+            "rinuncia"
+          ],
+          "significato": "Distacco emotivo necessario, ricerca di qualcosa di più profondo.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Eight of Cups",
+          "parole_chiave": [
+            "indolenza",
+            "rinuncia emotiva"
+          ],
+          "significato": "Energia affettiva esaurita, necessità di smettere di alimentare ciò che non nutre più.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_09",
+      "name": "Nove di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 9,
+      "keywords": [
+        "soddisfazione",
+        "desiderio",
+        "appagamento"
+      ],
+      "meaning": "Desideri che si avverano, benessere emotivo, realizzazione personale. Rovescio: Eccessi, compiacimento superficiale, gratificazione temporanea ma non profonda.",
+      "variants": {
+        "RWS": {
+          "nome": "Nine of Cups",
+          "parole_chiave": [
+            "soddisfazione",
+            "desiderio",
+            "appagamento"
+          ],
+          "dritto": "Desideri che si avverano, benessere emotivo, realizzazione personale.",
+          "rovescio": "Eccessi, compiacimento superficiale, gratificazione temporanea ma non profonda.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Neuf de Coupe",
+          "parole_chiave": [
+            "pienezza",
+            "soddisfazione",
+            "gioia personale"
+          ],
+          "significato": "Felicità moderata e stabile, conseguimento dei propri desideri.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Nine of Cups",
+          "parole_chiave": [
+            "felicità",
+            "pienezza",
+            "gioia"
+          ],
+          "significato": "Pura soddisfazione emotiva, realizzazione armonica, compimento.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_10",
+      "name": "Dieci di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": 10,
+      "keywords": [
+        "armonia familiare",
+        "gioia",
+        "compimento emotivo"
+      ],
+      "meaning": "Relazioni felici, amore stabile, atmosfera familiare armoniosa, pace interiore. Rovescio: Tensioni familiari, aspettative idealizzate, felicità non consolidata.",
+      "variants": {
+        "RWS": {
+          "nome": "Ten of Cups",
+          "parole_chiave": [
+            "armonia familiare",
+            "gioia",
+            "compimento emotivo"
+          ],
+          "dritto": "Relazioni felici, amore stabile, atmosfera familiare armoniosa, pace interiore.",
+          "rovescio": "Tensioni familiari, aspettative idealizzate, felicità non consolidata.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Dix de Coupe",
+          "parole_chiave": [
+            "pienezza",
+            "famiglia",
+            "successo emotivo"
+          ],
+          "significato": "Punto massimo dell'92armonia affettiva, maturità emotiva condivisa.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ten of Cups",
+          "parole_chiave": [
+            "soddisfazione completa",
+            "pace emotiva",
+            "benedizione"
+          ],
+          "significato": "Armonia totale del cuore, realizzazione, compimento emotivo perfetto.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_page",
+      "name": "Fante di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": null,
+      "keywords": [
+        "sensibilità",
+        "messaggi",
+        "apertura emotiva"
+      ],
+      "meaning": "Nuovi sentimenti, creatività, intuizioni delicate, messaggi positivi. Rovescio: Instabilità emotiva, immaturità, difficoltà a gestire i propri sentimenti.",
+      "variants": {
+        "RWS": {
+          "nome": "Page of Cups",
+          "parole_chiave": [
+            "sensibilità",
+            "messaggi",
+            "apertura emotiva"
+          ],
+          "dritto": "Nuovi sentimenti, creatività, intuizioni delicate, messaggi positivi.",
+          "rovescio": "Instabilità emotiva, immaturità, difficoltà a gestire i propri sentimenti.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Valet de Coupe",
+          "parole_chiave": [
+            "sensibilità",
+            "giovinezza",
+            "dolcezza"
+          ],
+          "significato": "Persona giovane sensibile, occasione affettiva delicata, apertura emotiva.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Princess of Cups",
+          "parole_chiave": [
+            "ricettività",
+            "dolcezza",
+            "creatività"
+          ],
+          "significato": "Energia emotiva pura, nascita di sensibilità nuove, ispirazione sottile.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_knight",
+      "name": "Cavaliere di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": null,
+      "keywords": [
+        "corte",
+        "romanticismo",
+        "proposta"
+      ],
+      "meaning": "Proposte sentimentali, movimenti dolci, corteggiamento, idealismo affettivo. Rovescio: Disillusione, manipolazione emotiva, instabilità sentimentale.",
+      "variants": {
+        "RWS": {
+          "nome": "Knight of Cups",
+          "parole_chiave": [
+            "corte",
+            "romanticismo",
+            "proposta"
+          ],
+          "dritto": "Proposte sentimentali, movimenti dolci, corteggiamento, idealismo affettivo.",
+          "rovescio": "Disillusione, manipolazione emotiva, instabilità sentimentale.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cavalier de Coupe",
+          "parole_chiave": [
+            "avvicinamento",
+            "offerta",
+            "sensibilità in azione"
+          ],
+          "significato": "Persona che porta un messaggio emotivo, situazione affettiva in movimento.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Prince of Cups",
+          "parole_chiave": [
+            "attrazione",
+            "magia affettiva",
+            "sensibilità intensa"
+          ],
+          "significato": "Emozioni intense che si muovono con grazia, fascino magnetico.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_queen",
+      "name": "Regina di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": null,
+      "keywords": [
+        "sensibilità",
+        "intuito",
+        "accoglienza"
+      ],
+      "meaning": "Donna sensibile e intuitiva, empatia profonda, sostegno affettivo. Rovescio: Eccessiva emotività, manipolazione passiva, confusione sentimentale.",
+      "variants": {
+        "RWS": {
+          "nome": "Queen of Cups",
+          "parole_chiave": [
+            "sensibilità",
+            "intuito",
+            "accoglienza"
+          ],
+          "dritto": "Donna sensibile e intuitiva, empatia profonda, sostegno affettivo.",
+          "rovescio": "Eccessiva emotività, manipolazione passiva, confusione sentimentale.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Reine de Coupe",
+          "parole_chiave": [
+            "cura",
+            "intuizione",
+            "dolcezza"
+          ],
+          "significato": "Energia femminile nutritiva, grande profondità emotiva e comprensione.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Queen of Cups",
+          "parole_chiave": [
+            "acqua profonda",
+            "ricettività pura"
+          ],
+          "significato": "Mistero femminile dell'92acqua, percezione sottile, fusione emotiva.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_cups_king",
+      "name": "Re di Coppe",
+      "arcana": "Minore",
+      "suit": "Coppe",
+      "number": null,
+      "keywords": [
+        "maturità emotiva",
+        "equilibrio",
+        "compassione"
+      ],
+      "meaning": "Saggezza emotiva, stabilità interiore, capacità di guidare con dolcezza. Rovescio: Manipolazione emotiva, instabilità nascosta, repressione delle emozioni.",
+      "variants": {
+        "RWS": {
+          "nome": "King of Cups",
+          "parole_chiave": [
+            "maturità emotiva",
+            "equilibrio",
+            "compassione"
+          ],
+          "dritto": "Saggezza emotiva, stabilità interiore, capacità di guidare con dolcezza.",
+          "rovescio": "Manipolazione emotiva, instabilità nascosta, repressione delle emozioni.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Roi de Coupe",
+          "parole_chiave": [
+            "autorità affettiva",
+            "calma",
+            "saggezza"
+          ],
+          "significato": "Uomo maturo che domina le emozioni, figura di supporto affettivo.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Knight of Cups",
+          "parole_chiave": [
+            "sensibilità attiva",
+            "amore spirituale"
+          ],
+          "significato": "Energia maschile dell'92acqua che guida con compassione e profondità.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_01",
+      "name": "Asso di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 1,
+      "keywords": [
+        "inizio concreto",
+        "prosperità",
+        "opportunità"
+      ],
+      "meaning": "Nuove possibilità materiali, successo potenziale, stabilità, prosperità. Rovescio: Opportunità mancate, mancanza di radicamento, insicurezza materiale.",
+      "variants": {
+        "RWS": {
+          "nome": "Ace of Pentacles",
+          "parole_chiave": [
+            "inizio concreto",
+            "prosperità",
+            "opportunità"
+          ],
+          "dritto": "Nuove possibilità materiali, successo potenziale, stabilità, prosperità.",
+          "rovescio": "Opportunità mancate, mancanza di radicamento, insicurezza materiale.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "As de Deniers",
+          "parole_chiave": [
+            "materializzazione",
+            "potenziale materiale"
+          ],
+          "significato": "Energia concreta disponibile, possibilità di costruzione solida.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ace of Disks",
+          "parole_chiave": [
+            "terra pura",
+            "nascita della forma"
+          ],
+          "significato": "Manifestazione concreta dell'92energia, inizio del ciclo materiale.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_02",
+      "name": "Due di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 2,
+      "keywords": [
+        "equilibrio",
+        "adattamento",
+        "dinamismo"
+      ],
+      "meaning": "Gestione flessibile delle risorse, equilibrio tra più impegni, cambiamenti gestiti. Rovescio: Sovraccarico, disorganizzazione, difficoltà a mantenere l'92equilibrio.",
+      "variants": {
+        "RWS": {
+          "nome": "Two of Pentacles",
+          "parole_chiave": [
+            "equilibrio",
+            "adattamento",
+            "dinamismo"
+          ],
+          "dritto": "Gestione flessibile delle risorse, equilibrio tra più impegni, cambiamenti gestiti.",
+          "rovescio": "Sovraccarico, disorganizzazione, difficoltà a mantenere l'92equilibrio.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Deux de Deniers",
+          "parole_chiave": [
+            "scambio",
+            "adattabilità"
+          ],
+          "significato": "Flusso costante di risorse, dinamismo economico, movimento continuo.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Two of Disks",
+          "parole_chiave": [
+            "cambiamento",
+            "rotazione",
+            "ciclo"
+          ],
+          "significato": "Necessità di adattarsi ai cicli della vita, bilanciamento attivo.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_03",
+      "name": "Tre di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 3,
+      "keywords": [
+        "collaborazione",
+        "maestria",
+        "progetto"
+      ],
+      "meaning": "Lavoro di squadra, competenza riconosciuta, costruzione, progresso. Rovescio: Incomprensioni nel lavoro, mancanza di coordinamento, competenze sottovalutate.",
+      "variants": {
+        "RWS": {
+          "nome": "Three of Pentacles",
+          "parole_chiave": [
+            "collaborazione",
+            "maestria",
+            "progetto"
+          ],
+          "dritto": "Lavoro di squadra, competenza riconosciuta, costruzione, progresso.",
+          "rovescio": "Incomprensioni nel lavoro, mancanza di coordinamento, competenze sottovalutate.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Trois de Deniers",
+          "parole_chiave": [
+            "costruzione",
+            "lavoro",
+            "abilità"
+          ],
+          "significato": "Cooperazione produttiva, base solida, fase iniziale di un progetto ben strutturato.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Three of Disks",
+          "parole_chiave": [
+            "lavoro",
+            "realizzazione",
+            "struttura"
+          ],
+          "significato": "Energia concentrata per costruire qualcosa di duraturo e concreto.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_04",
+      "name": "Quattro di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 4,
+      "keywords": [
+        "controllo",
+        "sicurezza",
+        "trattenere"
+      ],
+      "meaning": "Protezione delle risorse, prudenza, stabilità, attaccamento alla sicurezza. Rovescio: Rilascio del controllo, cambiamento finanziario, apertura.",
+      "variants": {
+        "RWS": {
+          "nome": "Four of Pentacles",
+          "parole_chiave": [
+            "controllo",
+            "sicurezza",
+            "trattenere"
+          ],
+          "dritto": "Protezione delle risorse, prudenza, stabilità, attaccamento alla sicurezza.",
+          "rovescio": "Rilascio del controllo, cambiamento finanziario, apertura.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Quatre de Deniers",
+          "parole_chiave": [
+            "stabilità",
+            "possesso"
+          ],
+          "significato": "Conservazione delle risorse, fissità, tenere stretto ciò che si ha.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Four of Disks",
+          "parole_chiave": [
+            "potere",
+            "struttura",
+            "sicurezza"
+          ],
+          "significato": "Costruzione di una base solida, dominio delle risorse materiali.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_05",
+      "name": "Cinque di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 5,
+      "keywords": [
+        "difficoltà",
+        "mancanza",
+        "crisi"
+      ],
+      "meaning": "Preoccupazioni materiali, isolamento, senso di povertà emotiva o economica. Rovescio: Miglioramento, aiuti in arrivo, possibilità di recupero.",
+      "variants": {
+        "RWS": {
+          "nome": "Five of Pentacles",
+          "parole_chiave": [
+            "difficoltà",
+            "mancanza",
+            "crisi"
+          ],
+          "dritto": "Preoccupazioni materiali, isolamento, senso di povertà emotiva o economica.",
+          "rovescio": "Miglioramento, aiuti in arrivo, possibilità di recupero.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cinq de Deniers",
+          "parole_chiave": [
+            "instabilità",
+            "perdita",
+            "crisi"
+          ],
+          "significato": "Momento di fragilità materiale o emotiva.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Five of Disks",
+          "parole_chiave": [
+            "preoccupazione",
+            "blocco",
+            "stasi materiale"
+          ],
+          "significato": "Paura della perdita, energia stagnante, ansia legata alla sopravvivenza.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_06",
+      "name": "Sei di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 6,
+      "keywords": [
+        "scambio",
+        "generosità",
+        "equilibrio"
+      ],
+      "meaning": "Aiuto reciproco, bilanciamento tra dare e ricevere, supporto concreto. Rovescio: Squilibrio nello scambio, dipendenza, generosità interessata.",
+      "variants": {
+        "RWS": {
+          "nome": "Six of Pentacles",
+          "parole_chiave": [
+            "scambio",
+            "generosità",
+            "equilibrio"
+          ],
+          "dritto": "Aiuto reciproco, bilanciamento tra dare e ricevere, supporto concreto.",
+          "rovescio": "Squilibrio nello scambio, dipendenza, generosità interessata.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Six de Deniers",
+          "parole_chiave": [
+            "scambio equo",
+            "supporto"
+          ],
+          "significato": "Situazione equilibrata, risorse che fluiscono nel modo corretto.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Six of Disks",
+          "parole_chiave": [
+            "successo",
+            "prosperità moderata"
+          ],
+          "significato": "Equilibrio tra forze materiali, guadagni stabili, armonia economica.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_07",
+      "name": "Sette di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 7,
+      "keywords": [
+        "attesa",
+        "valutazione",
+        "pazienza"
+      ],
+      "meaning": "Raccolta dei frutti, analisi dei progressi, attesa strategica, crescita lenta. Rovescio: Frustrazione, impazienza, investimenti che tardano a dare risultati.",
+      "variants": {
+        "RWS": {
+          "nome": "Seven of Pentacles",
+          "parole_chiave": [
+            "attesa",
+            "valutazione",
+            "pazienza"
+          ],
+          "dritto": "Raccolta dei frutti, analisi dei progressi, attesa strategica, crescita lenta.",
+          "rovescio": "Frustrazione, impazienza, investimenti che tardano a dare risultati.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Sept de Deniers",
+          "parole_chiave": [
+            "attesa",
+            "valutazione"
+          ],
+          "significato": "Monitoraggio della situazione, crescita lenta ma stabile.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Seven of Disks",
+          "parole_chiave": [
+            "fallimento",
+            "stasi",
+            "inefficienza"
+          ],
+          "significato": "Energia bloccata, investimenti non produttivi, necessità di revisione.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_08",
+      "name": "Otto di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 8,
+      "keywords": [
+        "apprendimento",
+        "impegno",
+        "abilità"
+      ],
+      "meaning": "Lavoro costante, perfezionamento, dedizione, miglioramento professionale. Rovescio: Routine, lavoro senza crescita, mancanza di motivazione.",
+      "variants": {
+        "RWS": {
+          "nome": "Eight of Pentacles",
+          "parole_chiave": [
+            "apprendimento",
+            "impegno",
+            "abilità"
+          ],
+          "dritto": "Lavoro costante, perfezionamento, dedizione, miglioramento professionale.",
+          "rovescio": "Routine, lavoro senza crescita, mancanza di motivazione.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Huit de Deniers",
+          "parole_chiave": [
+            "lavoro",
+            "precisione"
+          ],
+          "significato": "Maestria in formazione, abilità crescente grazie alla pratica.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Eight of Disks",
+          "parole_chiave": [
+            "prudenza",
+            "ordine",
+            "disciplina"
+          ],
+          "significato": "Lavoro diligente e preciso, attenzione al dettaglio.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_09",
+      "name": "Nove di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 9,
+      "keywords": [
+        "autonomia",
+        "comfort",
+        "successo"
+      ],
+      "meaning": "Realizzazione personale, benessere, lusso, indipendenza finanziaria. Rovescio: Dipendenza economica, fragilità sotto l'92apparenza, isolarsi troppo.",
+      "variants": {
+        "RWS": {
+          "nome": "Nine of Pentacles",
+          "parole_chiave": [
+            "autonomia",
+            "comfort",
+            "successo"
+          ],
+          "dritto": "Realizzazione personale, benessere, lusso, indipendenza finanziaria.",
+          "rovescio": "Dipendenza economica, fragilità sotto l'92apparenza, isolarsi troppo.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Neuf de Deniers",
+          "parole_chiave": [
+            "solo successo",
+            "stabilità"
+          ],
+          "significato": "Raggiungimento di sicurezza materiale e personale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Nine of Disks",
+          "parole_chiave": [
+            "guadagno",
+            "prosperità"
+          ],
+          "significato": "Ricompensa dei propri sforzi, successo stabile, risultati tangibili.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_10",
+      "name": "Dieci di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": 10,
+      "keywords": [
+        "famiglia",
+        "eredità",
+        "stabilità"
+      ],
+      "meaning": "Sicurezza familiare, prosperità duratura, patrimonio, continuità. Rovescio: Squilibri familiari, questioni ereditarie, instabilità economica a lungo termine.",
+      "variants": {
+        "RWS": {
+          "nome": "Ten of Pentacles",
+          "parole_chiave": [
+            "famiglia",
+            "eredità",
+            "stabilità"
+          ],
+          "dritto": "Sicurezza familiare, prosperità duratura, patrimonio, continuità.",
+          "rovescio": "Squilibri familiari, questioni ereditarie, instabilità economica a lungo termine.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Dix de Deniers",
+          "parole_chiave": [
+            "ricchezza",
+            "famiglia"
+          ],
+          "significato": "Consolidamento, costruzione duratura, abbondanza condivisa.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ten of Disks",
+          "parole_chiave": [
+            "ricchezza",
+            "pienezza materiale"
+          ],
+          "significato": "Punto massimo dell'energia materiale, realizzazione concreta.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_page",
+      "name": "Fante di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": null,
+      "keywords": [
+        "studio",
+        "opportunità",
+        "praticità"
+      ],
+      "meaning": "Nuovi studi, apprendimento, opportunità concrete, crescita professionale. Rovescio: Pigrizia, superficialità, mancanza di costanza o attenzione.",
+      "variants": {
+        "RWS": {
+          "nome": "Page of Pentacles",
+          "parole_chiave": [
+            "studio",
+            "opportunità",
+            "praticità"
+          ],
+          "dritto": "Nuovi studi, apprendimento, opportunità concrete, crescita professionale.",
+          "rovescio": "Pigrizia, superficialità, mancanza di costanza o attenzione.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Valet de Deniers",
+          "parole_chiave": [
+            "apprendista",
+            "studio"
+          ],
+          "significato": "Giovane che inizia un percorso concreto o professionale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Princess of Disks",
+          "parole_chiave": [
+            "fertilità terrestre",
+            "inizio materiale"
+          ],
+          "significato": "Nascita di nuove possibilità pratiche, energia nutritiva della terra.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_knight",
+      "name": "Cavaliere di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": null,
+      "keywords": [
+        "costanza",
+        "responsabilità",
+        "metodo"
+      ],
+      "meaning": "Lavoro diligente, impegno costante, serietà, risultati attraverso disciplina. Rovescio: Rigidità, monotonia, lentezza eccessiva, difficoltà ad adattarsi.",
+      "variants": {
+        "RWS": {
+          "nome": "Knight of Pentacles",
+          "parole_chiave": [
+            "costanza",
+            "responsabilità",
+            "metodo"
+          ],
+          "dritto": "Lavoro diligente, impegno costante, serietà, risultati attraverso disciplina.",
+          "rovescio": "Rigidità, monotonia, lentezza eccessiva, difficoltà ad adattarsi.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cavalier de Deniers",
+          "parole_chiave": [
+            "costanza",
+            "praticità"
+          ],
+          "significato": "Persona affidabile e concreta, energia lenta ma efficace.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Prince of Disks",
+          "parole_chiave": [
+            "stabilità",
+            "lentezza fertile"
+          ],
+          "significato": "Energia che costruisce nel tempo, determinazione solida e paziente.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_queen",
+      "name": "Regina di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": null,
+      "keywords": [
+        "abbondanza",
+        "cura",
+        "praticità"
+      ],
+      "meaning": "Donna pratica, generosa e concreta, prosperità domestica, nutrimento materiale. Rovescio: Eccessiva materialità, controllo domestico, dipendenza dagli altri.",
+      "variants": {
+        "RWS": {
+          "nome": "Queen of Pentacles",
+          "parole_chiave": [
+            "abbondanza",
+            "cura",
+            "praticità"
+          ],
+          "dritto": "Donna pratica, generosa e concreta, prosperità domestica, nutrimento materiale.",
+          "rovescio": "Eccessiva materialità, controllo domestico, dipendenza dagli altri.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Reine de Deniers",
+          "parole_chiave": [
+            "benessere",
+            "solidità"
+          ],
+          "significato": "Protezione e gestione delle risorse, raffinatezza pratica.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Queen of Disks",
+          "parole_chiave": [
+            "terra matura",
+            "accoglienza",
+            "nutrimento"
+          ],
+          "significato": "Energia femminile della terra, prosperità, quiete fertile.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_pentacles_king",
+      "name": "Re di Denari",
+      "arcana": "Minore",
+      "suit": "Denari",
+      "number": null,
+      "keywords": [
+        "successo materiale",
+        "protezione",
+        "stabilità"
+      ],
+      "meaning": "Realizzazione concreta, prosperità, leadership affidabile, figura protettiva. Rovescio: Materialismo, rigidità, bisogno di controllo economico.",
+      "variants": {
+        "RWS": {
+          "nome": "King of Pentacles",
+          "parole_chiave": [
+            "successo materiale",
+            "protezione",
+            "stabilità"
+          ],
+          "dritto": "Realizzazione concreta, prosperità, leadership affidabile, figura protettiva.",
+          "rovescio": "Materialismo, rigidità, bisogno di controllo economico.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Roi de Deniers",
+          "parole_chiave": [
+            "autorità materiale",
+            "stabilità",
+            "gestione"
+          ],
+          "significato": "Figura forte e concreta, dominio delle risorse, potere terreno.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Knight of Disks",
+          "parole_chiave": [
+            "terra dominante",
+            "protezione",
+            "sicurezza"
+          ],
+          "significato": "Energia maschile della terra che stabilizza, protegge e consolida.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_01",
+      "name": "Asso di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 1,
+      "keywords": [
+        "verità",
+        "chiarezza",
+        "taglio",
+        "decisione"
+      ],
+      "meaning": "Illuminazione mentale, decisione netta, verità rivelata, inizio di una nuova comprensione. Rovescio: Confusione, uso distorto della mente, parole taglienti, decisioni affrettate o rimandate.",
+      "variants": {
+        "RWS": {
+          "nome": "Ace of Swords",
+          "parole_chiave": [
+            "verità",
+            "chiarezza",
+            "taglio",
+            "decisione"
+          ],
+          "dritto": "Illuminazione mentale, decisione netta, verità rivelata, inizio di una nuova comprensione.",
+          "rovescio": "Confusione, uso distorto della mente, parole taglienti, decisioni affrettate o rimandate.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "As d'Épée",
+          "parole_chiave": [
+            "potere mentale",
+            "giustizia",
+            "taglio"
+          ],
+          "significato": "Forza dell'92intelletto, capacità di separare il vero dal falso.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ace of Swords",
+          "parole_chiave": [
+            "mente pura",
+            "verità",
+            "taglio karmico"
+          ],
+          "significato": "Nascita di una nuova coscienza mentale, potere di liberarsi da vecchi condizionamenti.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_02",
+      "name": "Due di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 2,
+      "keywords": [
+        "stallo",
+        "indecisione",
+        "blocchi"
+      ],
+      "meaning": "Scelta rimandata, equilibrio precario, difesa mentale, rifiuto di vedere una verità. Rovescio: Decisione presa, confusione che si scioglie, tensione mentale che si allenta.",
+      "variants": {
+        "RWS": {
+          "nome": "Two of Swords",
+          "parole_chiave": [
+            "stallo",
+            "indecisione",
+            "blocchi"
+          ],
+          "dritto": "Scelta rimandata, equilibrio precario, difesa mentale, rifiuto di vedere una verità.",
+          "rovescio": "Decisione presa, confusione che si scioglie, tensione mentale che si allenta.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Deux d'Épée",
+          "parole_chiave": [
+            "dualità mentale",
+            "equilibrio fragile"
+          ],
+          "significato": "Bilanciamento provvisorio, tensione tra due idee o due posizioni.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Two of Swords",
+          "parole_chiave": [
+            "pace",
+            "tregua mentale"
+          ],
+          "significato": "Stato di relativa quiete dopo un conflitto, tregua che non può durare per sempre.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_03",
+      "name": "Tre di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 3,
+      "keywords": [
+        "dolore",
+        "separazione",
+        "verità dolorosa"
+      ],
+      "meaning": "Sofferenza emotiva, tradimento percepito, rottura, parole che feriscono. Rovescio: Guarigione dopo il dolore, perdono, elaborazione della ferita.",
+      "variants": {
+        "RWS": {
+          "nome": "Three of Swords",
+          "parole_chiave": [
+            "dolore",
+            "separazione",
+            "verità dolorosa"
+          ],
+          "dritto": "Sofferenza emotiva, tradimento percepito, rottura, parole che feriscono.",
+          "rovescio": "Guarigione dopo il dolore, perdono, elaborazione della ferita.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Trois d'Épée",
+          "parole_chiave": [
+            "rottura",
+            "conflitto",
+            "taglio netto"
+          ],
+          "significato": "Divisione, separazione, fine di un accordo o di una situazione.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Three of Swords",
+          "parole_chiave": [
+            "dolore",
+            "tristezza",
+            "crisi mentale"
+          ],
+          "significato": "Conflitto intenso tra mente e cuore, sofferenza inevitabile che porta consapevolezza.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_04",
+      "name": "Quattro di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 4,
+      "keywords": [
+        "riposo",
+        "pausa",
+        "recupero"
+      ],
+      "meaning": "Bisogno di staccare, meditazione, ritiro, ricarica mentale. Rovescio: Ritorno all'92azione, inquietudine, difficoltà a riposare o rilassarsi.",
+      "variants": {
+        "RWS": {
+          "nome": "Four of Swords",
+          "parole_chiave": [
+            "riposo",
+            "pausa",
+            "recupero"
+          ],
+          "dritto": "Bisogno di staccare, meditazione, ritiro, ricarica mentale.",
+          "rovescio": "Ritorno all'92azione, inquietudine, difficoltà a riposare o rilassarsi.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Quatre d'Épée",
+          "parole_chiave": [
+            "stabilità mentale",
+            "quiete",
+            "sospensione"
+          ],
+          "significato": "Momento di pausa, riflessione, consolidamento del pensiero.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Four of Swords",
+          "parole_chiave": [
+            "tregua",
+            "stasi costruttiva"
+          ],
+          "significato": "Sospensione mentale necessaria per riorganizzare idee e strategie.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_05",
+      "name": "Cinque di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 5,
+      "keywords": [
+        "conflitto",
+        "sconfitta",
+        "umiliazione"
+      ],
+      "meaning": "Vittoria amara, discussioni pesanti, sentirsi vinti o colpevoli, tensioni. Rovescio: Desiderio di pace, fine di un conflitto, possibilità di riconciliazione o distacco.",
+      "variants": {
+        "RWS": {
+          "nome": "Five of Swords",
+          "parole_chiave": [
+            "conflitto",
+            "sconfitta",
+            "umiliazione"
+          ],
+          "dritto": "Vittoria amara, discussioni pesanti, sentirsi vinti o colpevoli, tensioni.",
+          "rovescio": "Desiderio di pace, fine di un conflitto, possibilità di riconciliazione o distacco.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cinq d'Épée",
+          "parole_chiave": [
+            "scontro",
+            "disonore",
+            "perdita"
+          ],
+          "significato": "Conflitti che lasciano strascichi, parole dure, clima pesante.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Five of Swords",
+          "parole_chiave": [
+            "sconfitta",
+            "disintegrazione",
+            "fallimento"
+          ],
+          "significato": "Collasso mentale, pensieri autodistruttivi, necessità di cambiare completamente approccio.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_06",
+      "name": "Sei di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 6,
+      "keywords": [
+        "transizione",
+        "passaggio",
+        "spostamento"
+      ],
+      "meaning": "Lentissimo miglioramento, passaggio da una situazione difficile a una più serena. Rovescio: Difficoltà a lasciare il passato, viaggio rimandato, senso di blocco nella transizione.",
+      "variants": {
+        "RWS": {
+          "nome": "Six of Swords",
+          "parole_chiave": [
+            "transizione",
+            "passaggio",
+            "spostamento"
+          ],
+          "dritto": "Lentissimo miglioramento, passaggio da una situazione difficile a una più serena.",
+          "rovescio": "Difficoltà a lasciare il passato, viaggio rimandato, senso di blocco nella transizione.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Six d'Épée",
+          "parole_chiave": [
+            "passaggio",
+            "cambiamento",
+            "ricomposizione"
+          ],
+          "significato": "Riorganizzazione mentale, tentativo di trovare una via più equilibrata.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Six of Swords",
+          "parole_chiave": [
+            "scienza",
+            "chiarezza mentale"
+          ],
+          "significato": "Uso ordinato dell'92intelletto, capacità di analiz'adzare e comprendere.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_07",
+      "name": "Sette di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 7,
+      "keywords": [
+        "strategia",
+        "furtività",
+        "inganno"
+      ],
+      "meaning": "Agire dietro le quinte, tattica, evitare il confronto, possibili inganni o autoinganni. Rovescio: Verità che emerge, ammissione, correzione di un comportamento scorretto.",
+      "variants": {
+        "RWS": {
+          "nome": "Seven of Swords",
+          "parole_chiave": [
+            "strategia",
+            "furtività",
+            "inganno"
+          ],
+          "dritto": "Agire dietro le quinte, tattica, evitare il confronto, possibili inganni o autoinganni.",
+          "rovescio": "Verità che emerge, ammissione, correzione di un comportamento scorretto.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Sept d'Épée",
+          "parole_chiave": [
+            "astuzia",
+            "insicurezza",
+            "duplicazione"
+          ],
+          "significato": "Strategie complesse, rischio di complicarsi la vita con troppi calcoli.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Seven of Swords",
+          "parole_chiave": [
+            "instabilità",
+            "debolezza",
+            "interferenza mentale"
+          ],
+          "significato": "Mente che si disperde, pensieri contraddittori, difficoltà a mantenere una linea chiara.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_08",
+      "name": "Otto di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 8,
+      "keywords": [
+        "blocco",
+        "paura",
+        "prigionia mentale"
+      ],
+      "meaning": "Sensazione di essere intrappolati, paura di agire, limiti autoimposti. Rovescio: Liberazione graduale, riconoscimento che i limiti erano in gran parte mentali.",
+      "variants": {
+        "RWS": {
+          "nome": "Eight of Swords",
+          "parole_chiave": [
+            "blocco",
+            "paura",
+            "prigionia mentale"
+          ],
+          "dritto": "Sensazione di essere intrappolati, paura di agire, limiti autoimposti.",
+          "rovescio": "Liberazione graduale, riconoscimento che i limiti erano in gran parte mentali.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Huit d'Épée",
+          "parole_chiave": [
+            "restrizione",
+            "costrizione",
+            "limite"
+          ],
+          "significato": "Situazione stretta, margini di manovra ridotti, clima di forte pressione mentale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Eight of Swords",
+          "parole_chiave": [
+            "interferenza",
+            "intrappolamento mentale"
+          ],
+          "significato": "Troppi influssi e pensieri che bloccano il flusso naturale delle cose.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_09",
+      "name": "Nove di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 9,
+      "keywords": [
+        "ansia",
+        "preoccupazione",
+        "senso di colpa"
+      ],
+      "meaning": "Pensieri ossessivi, insonnia, paure, rimorsi che tormentano. Rovescio: Alleggerimento dell'92ansia, consapevolezza dei propri pensieri, possibilità di guarigione.",
+      "variants": {
+        "RWS": {
+          "nome": "Nine of Swords",
+          "parole_chiave": [
+            "ansia",
+            "preoccupazione",
+            "senso di colpa"
+          ],
+          "dritto": "Pensieri ossessivi, insonnia, paure, rimorsi che tormentano.",
+          "rovescio": "Alleggerimento dell'92ansia, consapevolezza dei propri pensieri, possibilità di guarigione.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Neuf d'Épée",
+          "parole_chiave": [
+            "angoscia",
+            "eccesso mentale"
+          ],
+          "significato": "Sofferenza interiore, tormento mentale, paura del futuro o del giudizio.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Nine of Swords",
+          "parole_chiave": [
+            "crudeltà",
+            "auto-tortura mentale"
+          ],
+          "significato": "Pensieri che feriscono, senso di colpa, severità estrema verso se stessi o gli altri.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_10",
+      "name": "Dieci di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": 10,
+      "keywords": [
+        "fine",
+        "crollo",
+        "esaurimento"
+      ],
+      "meaning": "Conclusione dolorosa, colpo finale, situazione al capolinea, ma con possibilità di rinascita. Rovescio: Il peggio è passato, ripresa lenta, uscita dal tunnel.",
+      "variants": {
+        "RWS": {
+          "nome": "Ten of Swords",
+          "parole_chiave": [
+            "fine",
+            "crollo",
+            "esaurimento"
+          ],
+          "dritto": "Conclusione dolorosa, colpo finale, situazione al capolinea, ma con possibilità di rinascita.",
+          "rovescio": "Il peggio è passato, ripresa lenta, uscita dal tunnel.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Dix d'Épée",
+          "parole_chiave": [
+            "sovraccarico",
+            "collasso mentale"
+          ],
+          "significato": "Estremo affaticamento mentale, sensazione di non poterne più.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Ten of Swords",
+          "parole_chiave": [
+            "rovina",
+            "distruzione mentale"
+          ],
+          "significato": "Fine totale di un ciclo mentale, crollo di una struttura di pensiero ormai inutile.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_page",
+      "name": "Fante di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": null,
+      "keywords": [
+        "curiosità",
+        "idea nuova",
+        "messaggi"
+      ],
+      "meaning": "Spirito vigile, apprendimento, comunicazioni, giovane intelligente e osservatore. Rovescio: Pettegolezzo, irrequietezza mentale, comunicazione immatura o impulsiva.",
+      "variants": {
+        "RWS": {
+          "nome": "Page of Swords",
+          "parole_chiave": [
+            "curiosità",
+            "idea nuova",
+            "messaggi"
+          ],
+          "dritto": "Spirito vigile, apprendimento, comunicazioni, giovane intelligente e osservatore.",
+          "rovescio": "Pettegolezzo, irrequietezza mentale, comunicazione immatura o impulsiva.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Valet d'Épée",
+          "parole_chiave": [
+            "apprendista mentale",
+            "attenzione",
+            "studio"
+          ],
+          "significato": "Giovane che impara a usare la mente e la parola, osservazione attenta.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Princess of Swords",
+          "parole_chiave": [
+            "lucidità",
+            "indagine",
+            "taglio delle illusioni"
+          ],
+          "significato": "Energia giovane e determinata che rompe schemi mentali obsoleti.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_knight",
+      "name": "Cavaliere di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": null,
+      "keywords": [
+        "azione rapida",
+        "decisione",
+        "tempesta mentale"
+      ],
+      "meaning": "Intervento deciso, comunicazione diretta, impulso a chiarire o combattere. Rovescio: Aggressività verbale, impulsività mentale, azione caotica o distruttiva.",
+      "variants": {
+        "RWS": {
+          "nome": "Knight of Swords",
+          "parole_chiave": [
+            "azione rapida",
+            "decisione",
+            "tempesta mentale"
+          ],
+          "dritto": "Intervento deciso, comunicazione diretta, impulso a chiarire o combattere.",
+          "rovescio": "Aggressività verbale, impulsività mentale, azione caotica o distruttiva.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Cavalier d'Épée",
+          "parole_chiave": [
+            "pressione",
+            "slancio",
+            "attacco"
+          ],
+          "significato": "Energia che spinge a intervenire, rischiando lo scontro.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Prince of Swords",
+          "parole_chiave": [
+            "attività mentale",
+            "analisi",
+            "agitazione"
+          ],
+          "significato": "Mente velocissima, capacità di analisi ma rischio di eccessiva complicazione.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_queen",
+      "name": "Regina di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": null,
+      "keywords": [
+        "lucidità",
+        "indipendenza",
+        "discernimento"
+      ],
+      "meaning": "Chiarezza mentale, comunicazione onesta, capacità critica, indipendenza. Rovescio: Durezza, cinismo, freddezza, parole taglienti, chiusura emotiva.",
+      "variants": {
+        "RWS": {
+          "nome": "Queen of Swords",
+          "parole_chiave": [
+            "lucidità",
+            "indipendenza",
+            "discernimento"
+          ],
+          "dritto": "Chiarezza mentale, comunicazione onesta, capacità critica, indipendenza.",
+          "rovescio": "Durezza, cinismo, freddezza, parole taglienti, chiusura emotiva.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Reine d'Épée",
+          "parole_chiave": [
+            "logica",
+            "giudizio",
+            "autonomia"
+          ],
+          "significato": "Donna lucida e decisa, capace di vedere le cose per come sono.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Queen of Swords",
+          "parole_chiave": [
+            "verità nuda",
+            "distacco",
+            "taglio liberatorio"
+          ],
+          "significato": "Capacità di separare ciò che è autentico da ciò che è illusorio, anche a costo di dolore.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    },
+    {
+      "id": "minor_swords_king",
+      "name": "Re di Spade",
+      "arcana": "Minore",
+      "suit": "Spade",
+      "number": null,
+      "keywords": [
+        "autorità mentale",
+        "giustizia",
+        "strategia"
+      ],
+      "meaning": "Razionalità, equità, capacità di giudizio, leadership intellettuale. Rovescio: Freddo calcolatore, abuso di logica, manipolazione mentale o verbale.",
+      "variants": {
+        "RWS": {
+          "nome": "King of Swords",
+          "parole_chiave": [
+            "autorità mentale",
+            "giustizia",
+            "strategia"
+          ],
+          "dritto": "Razionalità, equità, capacità di giudizio, leadership intellettuale.",
+          "rovescio": "Freddo calcolatore, abuso di logica, manipolazione mentale o verbale.",
+          "simbologia": ""
+        },
+        "Marsiglia": {
+          "nome": "Roi d'Épée",
+          "parole_chiave": [
+            "autorità",
+            "decisione",
+            "ordine"
+          ],
+          "significato": "Figura maschile che incarna la legge, il giudizio, la chiarezza mentale.",
+          "note_tradizionali": ""
+        },
+        "Thoth": {
+          "nome": "Knight of Swords",
+          "parole_chiave": [
+            "mente dominante",
+            "azione razionale"
+          ],
+          "significato": "Potente energia mentale diretta all'92azione, ma da equilibrare con il cuore.",
+          "corrispondenze": {
+            "astrologia": null,
+            "kabbalah": null,
+            "alchimia": null
+          }
+        }
+      }
+    }
+  ]
+}
